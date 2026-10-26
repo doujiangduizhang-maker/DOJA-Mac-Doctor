@@ -1,0 +1,180 @@
+DOJA Mac Doctor · 真实数据 · 只读扫描
+内部卷总容量：245.11 GB  剩余：413.7 MB
+内存压力：未知  Swap：未取得
+扫描文件：10085  逻辑总量：4.56 GB  已分配：4.58 GB
+未扫描/读取问题：22  已跳过符号链接：21
+
+占用最大的 20 个目录（目录存在包含关系，请勿相加）：
+4.42 GB | 已分配 4.44 GB | 未完整扫描 | /Users/doja/.codex
+2.76 GB | 已分配 2.76 GB | 完整 | /Users/doja/.codex/sessions/2026
+2.76 GB | 已分配 2.76 GB | 完整 | /Users/doja/.codex/sessions
+1.36 GB | 已分配 1.36 GB | 完整 | /Users/doja/.codex/sessions/2026/09
+1.25 GB | 已分配 1.25 GB | 完整 | /Users/doja/.codex/sessions/2026/10
+412.8 MB | 已分配 416.3 MB | 未完整扫描 | /Users/doja/.codex/plugins
+391.1 MB | 已分配 391.1 MB | 完整 | /Users/doja/.codex/sessions/2026/09/09
+380.1 MB | 已分配 380.1 MB | 完整 | /Users/doja/.codex/sessions/2026/09/24
+374.8 MB | 已分配 374.8 MB | 完整 | /Users/doja/.codex/sessions/2026/10/06
+360.3 MB | 已分配 360.7 MB | 完整 | /Users/doja/.codex/generated_images
+331.6 MB | 已分配 331.7 MB | 完整 | /Users/doja/.codex/plugins/.plugin-appserver/codex-cli
+331.6 MB | 已分配 331.7 MB | 完整 | /Users/doja/.codex/plugins/.plugin-appserver
+322.7 MB | 已分配 322.8 MB | 完整 | /Users/doja/.codex/sessions/2026/10/09
+242.6 MB | 已分配 242.6 MB | 完整 | /Users/doja/.codex/sessions/2026/10/07
+240.2 MB | 已分配 240.2 MB | 完整 | /Users/doja/.codex/plugins/.plugin-appserver/codex-cli/CodexCLI.app/Contents
+240.2 MB | 已分配 240.2 MB | 完整 | /Users/doja/.codex/plugins/.plugin-appserver/codex-cli/CodexCLI.app
+240.2 MB | 已分配 240.2 MB | 完整 | /Users/doja/.codex/plugins/.plugin-appserver/codex-cli/CodexCLI.app/Contents/MacOS
+210 MB | 已分配 210 MB | 完整 | /Users/doja/.codex/sessions/2026/09/16
+171.3 MB | 已分配 171.3 MB | 完整 | /Users/doja/.codex/sessions/2026/09/14
+145.3 MB | 已分配 137.6 MB | 未完整扫描 | /Users/doja/Library/Application Support/Codex
+
+占用最大的 50 个文件：
+552.7 MB | 已分配 552.7 MB | /Users/doja/.codex/thread_history_1.sqlite
+380 MB | 已分配 380 MB | /Users/doja/.codex/sessions/2026/09/24/rollout-2026-09-24T13-33-06-01a0d1e7-38b4-7eb2-8196-f9284ee67614.jsonl
+373.9 MB | 已分配 373.9 MB | /Users/doja/.codex/sessions/2026/10/06/rollout-2026-10-06T21-00-16-01a1114c-ed24-7543-a5d1-44ae1711a5bf.jsonl
+240.2 MB | 已分配 240.2 MB | /Users/doja/.codex/plugins/.plugin-appserver/codex-cli/CodexCLI.app/Contents/MacOS/codex
+236.3 MB | 已分配 236.3 MB | /Users/doja/.codex/sessions/2026/10/07/rollout-2026-10-07T17-13-50-01a115a3-fb49-7003-99e7-1eec2a8b5c3c.jsonl
+171.1 MB | 已分配 171.1 MB | /Users/doja/.codex/sessions/2026/09/14/rollout-2026-09-14T01-05-15-01a09bba-f429-7021-9889-418e9adfffd5.jsonl
+125.1 MB | 已分配 125.1 MB | /Users/doja/.codex/sessions/2026/09/16/rollout-2026-09-16T10-03-30-01a0a7f4-7271-7800-8223-9a32c2094e9b.jsonl
+116.6 MB | 已分配 116.6 MB | /Users/doja/.codex/sessions/2026/09/09/rollout-2026-09-09T03-22-14-01a08278-9219-7ea1-a1cc-95b0d2034c86.jsonl
+89.9 MB | 已分配 89.9 MB | /Users/doja/.codex/sessions/2026/05/29/rollout-2026-05-29T01-21-41-019e6f9b-2e13-7763-85fc-485221ce2b89.jsonl
+81.6 MB | 已分配 81.6 MB | /Users/doja/.codex/sessions/2026/09/16/rollout-2026-09-16T18-14-24-01a0a9b5-e122-7f12-8bc3-be76fa22a124.jsonl
+81.2 MB | 已分配 81.2 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T22-45-00-01a1211f-e3a1-7651-bd87-b43cdb719951.jsonl
+80 MB | 已分配 80 MB | /Users/doja/.codex/sessions/2026/09/09/rollout-2026-09-09T03-15-01-01a08271-f572-7cc3-a97c-9cef825b117e.jsonl
+78.3 MB | 已分配 78.3 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T22-45-22-01a12120-3afa-7cd0-b64b-9b73e3066721.jsonl
+77 MB | 已分配 77 MB | /Users/doja/.codex/sessions/2026/10/08/rollout-2026-10-08T13-23-42-01a119f7-a45f-7981-a19d-a2c590d2d25b.jsonl
+72.4 MB | 已分配 72.4 MB | /Users/doja/.codex/sessions/2026/09/09/rollout-2026-09-09T03-22-51-01a08279-20df-7a33-b019-ec594d151fbe.jsonl
+66.2 MB | 已分配 66.2 MB | /Users/doja/.codex/logs_2.sqlite
+65.4 MB | 已分配 65.4 MB | /Users/doja/.codex/plugins/.plugin-appserver/codex-cli/bin/codex-code-mode-host
+63.5 MB | 已分配 63.5 MB | /Users/doja/.codex/sessions/2026/09/09/rollout-2026-09-09T03-11-57-01a0826f-2793-75e3-84b6-46e9cbe50523.jsonl
+56.5 MB | 已分配 56.5 MB | /Users/doja/.codex/sessions/2026/09/09/rollout-2026-09-09T09-31-45-01a0826f-2793-75e3-84b6-46e9cbe50523_01a083ca-dbf3-7c72-b2a8-d1d6a252958a.jsonl
+53.3 MB | 已分配 53.3 MB | /Users/doja/.codex/sessions/2026/09/04/rollout-2026-09-04T19-54-09-01a06c44-e4b8-78c1-ad16-5240b9f44130.jsonl
+48 MB | 已分配 48 MB | /Users/doja/.codex/sessions/2026/09/29/rollout-2026-09-29T05-24-46-01a0e9e7-edb2-7d21-a310-38e90c73d73c.jsonl
+36.6 MB | 已分配 36.6 MB | /Users/doja/.codex/sessions/2026/05/31/rollout-2026-05-31T08-12-43-019e7b60-34ea-74b2-8dab-1f1eaad56408.jsonl
+33.5 MB | 已分配 33.5 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T22-34-56-01a12116-ad14-7063-8e92-92235ee78666.jsonl
+32.3 MB | 已分配 32.3 MB | /Users/doja/.codex/cache/remote_plugin_catalog/82c7ba7d5944be1f.json
+31.3 MB | 已分配 31.3 MB | /Users/doja/.codex/sessions/2026/09/28/rollout-2026-09-28T02-43-58-01a0d1e7-38b4-7eb2-8196-f9284ee67614_01a0e42e-5b7b-7a33-92dc-a9b293a10d07.jsonl
+31.3 MB | 已分配 31.3 MB | /Users/doja/.codex/sessions/2026/10/08/rollout-2026-10-08T12-54-37-01a119dd-061f-7080-878e-579c514493a4.jsonl
+28.7 MB | 已分配 28.7 MB | /Users/doja/.codex/sessions/2026/09/10/rollout-2026-09-10T08-40-04-01a088c1-e850-7ea2-a317-599e7abeac66.jsonl
+27.5 MB | 已分配 27.5 MB | /Users/doja/.codex/sessions/2026/09/20/rollout-2026-09-20T14-50-47-01a0bd94-e763-75f1-b163-65fcab26b89c.jsonl
+26.3 MB | 已分配 26.3 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T22-26-27-01a1210e-e7f0-7ec1-b467-e8d2defb6d74.jsonl
+26.1 MB | 已分配 26.1 MB | /Users/doja/.codex/sessions/2026/10/11/rollout-2026-10-11T02-23-02-01a1270d-ddea-7ae0-bc40-5f86ccf756b2.jsonl
+24.5 MB | 已分配 24.5 MB | /Users/doja/.codex/computer-use/Codex Computer Use.app/Contents/MacOS/SkyComputerUseService
+24.2 MB | 已分配 24.2 MB | /Users/doja/.codex/computer-use/Codex Computer Use.app/Contents/SharedSupport/CUALockScreenGuardian.app/Contents/MacOS/CUALockScreenGuardian
+23.5 MB | 已分配 23.5 MB | /Users/doja/.codex/sessions/2026/10/04/rollout-2026-10-04T20-00-12-01a106c9-3607-7370-9eb8-3dbc055a4b26.jsonl
+23.4 MB | 已分配 23.4 MB | /Users/doja/Library/Application Support/Codex/component_crx_cache/608de406394ea7501102b9d3df7def2f2a58ef27b1d534de66a32d38c250637d
+23 MB | 已分配 23 MB | /Users/doja/Library/Application Support/Codex/WasmTtsEngine/20260917.1/bindings_main.wasm
+22.2 MB | 已分配 22.2 MB | /Users/doja/.codex/sessions/2026/10/11/rollout-2026-10-11T02-22-48-01a1270d-a60e-7591-9962-45ffe62bbcbd.jsonl
+21.8 MB | 已分配 21.8 MB | /Users/doja/.codex/sessions/2026/10/11/rollout-2026-10-11T02-01-47-01a126fa-6a0f-7173-97cf-a0d1944468a9.jsonl
+21.5 MB | 已分配 21.5 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T22-43-52-01a1211e-dbc9-7963-95e7-d3231da73a3a.jsonl
+21.5 MB | 已分配 21.5 MB | /Users/doja/.codex/.tmp/plugins/.git/objects/pack/pack-eeeff8edcfc29cbd3e86e646fff3e589fb1cc64e.pack
+21.1 MB | 已分配 21.1 MB | /Users/doja/.codex/sessions/2026/10/11/rollout-2026-10-11T02-05-22-01a126fd-af22-7980-90a2-59bfcab5e28a.jsonl
+20.5 MB | 已分配 20.5 MB | /Users/doja/.codex/sessions/2026/10/11/rollout-2026-10-11T02-22-37-01a1270d-7a61-7bb3-ac3d-8f2f721fe8f3.jsonl
+20.5 MB | 已分配 20.5 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T23-42-07-01a12154-2fef-7da0-9d27-c34d1103d980.jsonl
+20.4 MB | 已分配 20.4 MB | /Users/doja/Library/Application Support/Codex/component_crx_cache/6bf32d10630d5aebe1ae2aafb510f43801347c30d012932764e63b5513325af4
+20.4 MB | 已分配 20.4 MB | /Users/doja/Library/Application Support/Codex/WidevineCdm/4.10.3112.0/_platform_specific/mac_arm64/libwidevinecdm.dylib
+19.9 MB | 已分配 19.9 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T23-43-38-01a12155-90ea-7d60-9221-393d984705dc.jsonl
+19.9 MB | 已分配 19.9 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T21-35-46-01a120e0-80a1-7532-822a-55c677cb8903.jsonl
+19.8 MB | 已分配 19.8 MB | /Users/doja/.codex/sessions/2026/10/11/rollout-2026-10-11T02-28-51-01a12713-328d-7122-9b29-2bdb80c485d1.jsonl
+19.7 MB | 已分配 19.7 MB | /Users/doja/.codex/sessions/2026/10/09/rollout-2026-10-09T23-41-55-01a12154-0060-7e82-8534-84bc4396be46.jsonl
+17.8 MB | 已分配 17.8 MB | /Users/doja/.codex/sessions/2026/10/08/rollout-2026-10-08T12-53-28-01a119db-f760-7061-ba32-b5bdff82deab.jsonl
+15.1 MB | 已分配 15.1 MB | /Users/doja/.codex/computer-use/Codex Computer Use.app/Contents/SharedSupport/SkyComputerUseClient.app/Contents/MacOS/SkyComputerUseClient
+
+最近 7 天新增或修改的大文件（最多列出 50 条）：3 条
+552.7 MB | /Users/doja/.codex/thread_history_1.sqlite
+373.9 MB | /Users/doja/.codex/sessions/2026/10/06/rollout-2026-10-06T21-00-16-01a1114c-ed24-7543-a5d1-44ae1711a5bf.jsonl
+236.3 MB | /Users/doja/.codex/sessions/2026/10/07/rollout-2026-10-07T17-13-50-01a115a3-fb49-7003-99e7-1eec2a8b5c3c.jsonl
+
+专项诊断与建议：
+[红色] Codex 会话、配置与工作文件 | 2.76 GB | /Users/doja/.codex/sessions
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程或数据库文件 | 552.7 MB | /Users/doja/.codex/thread_history_1.sqlite
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 412.8 MB | /Users/doja/.codex/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 67.6 MB | /Users/doja/.codex/.tmp/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] Codex 运行日志 | 66.2 MB | /Users/doja/.codex/logs_2.sqlite
+  观察同一范围的后续增长，保存近期故障证据。日志数据库及其 WAL/SHM 必须作为整体考虑，运行期间不能直接删除。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 50.6 MB | /Users/doja/.codex/.tmp/bundled-marketplaces/openai-bundled/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 数据（用途待确认） | 32.3 MB | /Users/doja/.codex/cache/remote_plugin_catalog/82c7ba7d5944be1f.json
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 数据（用途待确认） | 24.5 MB | /Users/doja/.codex/computer-use/Codex Computer Use.app/Contents/MacOS/SkyComputerUseService
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 数据（用途待确认） | 24.2 MB | /Users/doja/.codex/computer-use/Codex Computer Use.app/Contents/SharedSupport/CUALockScreenGuardian.app/Contents/MacOS/CUALockScreenGuardian
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 数据（用途待确认） | 15.1 MB | /Users/doja/.codex/computer-use/Codex Computer Use.app/Contents/SharedSupport/SkyComputerUseClient.app/Contents/MacOS/SkyComputerUseClient
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 6 MB | /Users/doja/.codex/vendor_imports/skills
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 4.9 MB | /Users/doja/Library/Application Support/Codex/Default/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 557 KB | /Users/doja/Library/Application Support/Codex/Default/Partitions/codex-browser-app/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 308 KB | /Users/doja/.codex/skills
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 557 KB | /Users/doja/Library/Application Support/Codex/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 557 KB | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] Codex 待处理崩溃报告 | 203 KB | /Users/doja/Library/Application Support/Codex/Crashpad/pending
+  先保留最近问题所需的报告，确认不再排查且应用已退出后再判断历史报告。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 8 KB | /Users/doja/Library/Application Support/Codex/Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Code Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/Code Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 0 KB | /Users/doja/.codex/computer-use/sessions
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Default/Partitions/codex-browser-app/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Default/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/codex-browser-app/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 3 KB | /Users/doja/.codex/.tmp/bundled-marketplaces/openai-bundled/.agents/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] Codex 运行日志 | 1 KB | /Users/doja/Library/Logs/com.openai.codex
+  观察同一范围的后续增长，保存近期故障证据。日志数据库及其 WAL/SHM 必须作为整体考虑，运行期间不能直接删除。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 0 B | /Users/doja/.codex/memories
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 混有需保留文件 | 0 B | /Users/doja/.codex/tmp
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 0 B | /Users/doja/Library/Application Support/Codex/Default/Partitions/codex-browser-app/Sessions
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 混有需保留文件 | 0 B | /Users/doja/Library/Application Support/Codex/GPUPersistentCache/GPUCache
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 B | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+未扫描：/Users/doja/.codex/plugins/cache/openai-bundled/chrome/latest · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/ipc/ipc.sock · 套接字、设备或其他特殊文件未扫描
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0asxm60/applypatch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0asxm60/apply_patch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0asxm60/codex-execve-wrapper · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0rdyA9t/applypatch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0rdyA9t/apply_patch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0rdyA9t/codex-execve-wrapper · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0uZ8ybh/applypatch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0uZ8ybh/apply_patch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0uZ8ybh/codex-execve-wrapper · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0Zbs9bL/codex-execve-wrapper · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0E1ZXEa/applypatch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0E1ZXEa/apply_patch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg0E1ZXEa/codex-execve-wrapper · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg03CbzWp/applypatch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg03CbzWp/apply_patch · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/.codex/tmp/arg0/codex-arg03CbzWp/codex-execve-wrapper · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/Library/Application Support/Codex/RunningChromeVersion · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/Library/Application Support/Codex/SingletonSocket · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/Library/Application Support/Codex/SingletonCookie · 符号链接未扫描，不跟随其目标
+未扫描：/Users/doja/Library/Application Support/Codex/SingletonLock · 符号链接未扫描，不跟随其目标
+
+过去空间突减的原因：原因待确认。尚无异常前的可比较扫描或监控记录。
+
+逻辑大小按文件路径累计；已分配大小按文件身份去重并包含目录元数据。APFS 克隆、快照及扫描范围外的硬链接可能共享或保留磁盘块；这些值不能证明删除可释放的空间。第一阶段只读，不删除或移动文件。
+
+已保存真实扫描报告：/Volumes/DOJA01/有亿点想法/DOJA-Mac-Doctor/docs/local-codex-scan.json

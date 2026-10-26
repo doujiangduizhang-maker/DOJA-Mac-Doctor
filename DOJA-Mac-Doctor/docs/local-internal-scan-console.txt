@@ -1,0 +1,417 @@
+DOJA Mac Doctor · 真实数据 · 只读扫描
+内部卷总容量：245.11 GB  剩余：445 MB
+内存压力：未知  Swap：未取得
+扫描文件：805014  逻辑总量：233.5 GB  已分配：208.45 GB
+未扫描/读取问题：52455  已跳过符号链接：47483
+
+占用最大的 20 个目录（目录存在包含关系，请勿相加）：
+162.79 GB | 已分配 144.65 GB | 未完整扫描 | /Users/doja
+96.45 GB | 已分配 78.03 GB | 未完整扫描 | /Users/doja/Library
+61.88 GB | 已分配 56.5 GB | 未完整扫描 | /Users/doja/Library/Containers
+48.21 GB | 已分配 48.31 GB | 未完整扫描 | /Users/doja/Movies
+46.01 GB | 已分配 42.63 GB | 未完整扫描 | /Applications
+43.59 GB | 已分配 37.67 GB | 未完整扫描 | /Users/doja/Library/Containers/com.tencent.xinWeChat
+43.59 GB | 已分配 37.67 GB | 未完整扫描 | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data
+43.58 GB | 已分配 37.67 GB | 完整 | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents
+42.44 GB | 已分配 36.48 GB | 完整 | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files
+42.41 GB | 已分配 36.46 GB | 完整 | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6
+39.77 GB | 已分配 33.8 GB | 完整 | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg
+38.23 GB | 已分配 38.23 GB | 完整 | /Users/doja/Movies/CacheClip
+38.12 GB | 已分配 38.12 GB | 完整 | /Users/doja/Movies/CacheClip/e8400bd3-047d-440b-b199-35695a082d3f
+33.52 GB | 已分配 27.89 GB | 完整 | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video
+30.48 GB | 已分配 17.35 GB | 未完整扫描 | /Users/doja/Library/Application Support
+30.05 GB | 已分配 24.43 GB | 完整 | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09
+24.18 GB | 已分配 11.05 GB | 完整 | /Users/doja/Library/Application Support/Claude
+23.68 GB | 已分配 10.54 GB | 完整 | /Users/doja/Library/Application Support/Claude/vm_bundles/claudevm.bundle
+23.68 GB | 已分配 10.54 GB | 完整 | /Users/doja/Library/Application Support/Claude/vm_bundles
+21.33 GB | 已分配 21.33 GB | 完整 | /Users/doja/Movies/CacheClip/e8400bd3-047d-440b-b199-35695a082d3f/c9010547-57d8-4392-85f0-dd570d6503a7
+
+占用最大的 50 个文件：
+10.74 GB | 已分配 8.22 GB | /Users/doja/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img
+10.74 GB | 已分配 127.3 MB | /Users/doja/Library/Application Support/Claude/vm_bundles/claudevm.bundle/sessiondata.img
+3.06 GB | 已分配 3.06 GB | /Users/doja/.cache/modelscope/hub/models/._____temp/DiffSynth-Studio/Qwen-Image-i2L/Qwen-Image-i2L-Coarse.safetensors
+3.06 GB | 已分配 3.06 GB | /Users/doja/.cache/modelscope/hub/models/._____temp/DiffSynth-Studio/Qwen-Image-i2L/Qwen-Image-i2L-Style.safetensors
+2.92 GB | 已分配 2.92 GB | /Users/doja/.cache/modelscope/hub/models/._____temp/DiffSynth-Studio/Qwen-Image-i2L/Qwen-Image-i2L-Fine.safetensors
+2.2 GB | 已分配 2.2 GB | /Users/doja/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img.zst
+1.58 GB | 已分配 1.58 GB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/libVECreator.dylib
+1.05 GB | 已分配 1.05 GB | /Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/MacOS/Resolve
+874.7 MB | 已分配 874.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/a54be015c29b4eeb74c0ed3bfe49f80f_raw.mp4
+874.7 MB | 已分配 874.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/3361a53ad470c1c0ae8fa96e884e8cb3_raw.mp4
+874.7 MB | 已分配 874.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/84a93338f89958c5765e23c545920d2f_raw.mp4
+840.6 MB | 已分配 840.6 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/cache/2026-09/Message/824f76efa743f08d94cf654926ffd9da/SendTemp/1386_1790754149_send_temp
+789.5 MB | 已分配 789.5 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/cfdb95903769618ebb7b9d8c90ae62f6_raw.mp4
+753.2 MB | 已分配 753.2 MB | /Users/doja/Library/Application Support/Google/GoogleUpdater/crx_cache/09e4b22dbdeb9b7044253ec619e0cb22f082c39df91fe7a140e08fd16222dcbe
+736.9 MB | 已分配 736.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/e16e13f0318cf75e69a9ad24715877a4_raw.mp4
+728.4 MB | 已分配 728.4 MB | /Users/doja/Movies/JianyingPro/User Data/SupplysStore/local-asr-supplies/FC26FB2E-376B-4620-A11D-9011F3E517F2/asr-cur-model/model
+691.9 MB | 已分配 691.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/0146a0834229abde32366f7ef226fcea_raw.mp4
+691.9 MB | 已分配 691.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/9d3d692ef3897dab4812338039c315e0_raw.mp4
+678.1 MB | 已分配 678.1 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/初稿.mp4
+651.5 MB | 已分配 651.5 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/3d5cbd656e6062fccaf0f31c690b23b2_raw.mp4
+650.7 MB | 已分配 650.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/b43253284d8ecfbf621601fc8256a8e6_raw.mp4
+650.7 MB | 已分配 650.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/dec22606e44f07c5173b60d1f908e852_raw.mp4
+636.3 MB | 已分配 636.3 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/74eb8a1b484f53b219c624c7c28ae03a_raw.mp4
+636.3 MB | 已分配 636.3 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/9cab38e49359e295ab5eaa4541014ec1_raw.mp4
+632.7 MB | 已分配 632.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/e3c46216321757d283181f98521366fc_raw.mp4
+590.7 MB | 已分配 590.7 MB | /Users/doja/Library/Containers/com.kingsoft.wpsoffice.mac/Data/.kingsoft/office6/data/backup/20260716_晟望集团_影视分镜脚本(链接版).xlsx.CF0F7C0000FA84753D307759E63A5F24.20260825225954660.et
+590.7 MB | 已分配 590.7 MB | /Users/doja/Library/Containers/com.kingsoft.wpsoffice.mac/Data/.kingsoft/office6/data/backup/20260716_晟望集团_影视分镜脚本(链接版).xlsx.CF0F7C0000FA84753D307759E63A5F24.20260825192354311.et
+577.9 MB | 已分配 577.9 MB | /Library/Application Support/Blackmagic Design/DaVinci Resolve/Prereqs/davinci_panels.tgz
+560.9 MB | 已分配 560.9 MB | /Library/Application Support/Adobe/Keyfiles/AfterEffects/22/CustomHooks/Maxon Cinema 4D Full Installer.app/Contents/Resources/installbuilder
+555.9 MB | 已分配 555.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/file/2026-10/归档.zip
+552.7 MB | 已分配 552.7 MB | /Users/doja/.codex/thread_history_1.sqlite
+552.4 MB | 已分配 552.4 MB | /Applications/DaVinci Resolve/DaVinci Control Panels Setup.app/Contents/Frameworks/libQt6WebEngineCore.6.dylib
+546.9 MB | 已分配 546.9 MB | /Applications/ChatGPT.app/Contents/Resources/app.asar
+517 MB | 已分配 517 MB | /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Google Chrome Framework
+506.6 MB | 已分配 506.6 MB | /Users/doja/Library/Preferences/Adobe/After Effects/25.0/logs/DirectOutFastDraftCapture.ae3d
+475.2 MB | 已分配 475.2 MB | /Library/Application Support/com.apple.idleassetsd/Customer/4KSDR240FPS/6D6834A4-2F0F-479A-B053-7D4DC5CB8EB7.mov
+470.2 MB | 已分配 470.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/d5882885d1ba402737de8d9c69420517_raw.mp4
+468.6 MB | 已分配 468.6 MB | /Users/doja/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/消安检查/80279b26944a0a916c86790881b464f3.mp4
+424.1 MB | 已分配 424.1 MB | /Users/doja/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/消安检查/9867042a81a5729724ba1c45cb611ae8.mp4
+403.9 MB | 已分配 403.9 MB | /Users/doja/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/消安检查/94da5d501421ecfd42a20fb44cb67883.mp4
+403 MB | 已分配 403 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/75df027571909e9a27dda61d5e00f72a_raw.mp4
+402.7 MB | 已分配 402.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/f9762270e183ff92eca3564eaa041a2c_raw.mp4
+397.2 MB | 已分配 397.2 MB | /Users/doja/Library/Containers/com.baidu.netdisk/Data/Library/Application Support/com.baidu.netdisk/2573c3d62241805d429ef038bf92930f/cloudpic.db
+392.4 MB | 已分配 392.4 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/9861d22e739fb17a86067ba7be8ce314_raw.mp4
+392.2 MB | 已分配 392.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/fca4342f23da87a099194ecdb6e52a45_raw.mp4
+392.1 MB | 已分配 392.1 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/cc2ab8bd786eef0cfac9fbd42268a928_raw.mp4
+385.4 MB | 已分配 385.4 MB | /Users/doja/Movies/JianyingPro/User Data/SupplysStore/local-asr-supplies/FC26FB2E-376B-4620-A11D-9011F3E517F2/asr-model-encoder.onnx
+380 MB | 已分配 380 MB | /Users/doja/.codex/sessions/2026/09/24/rollout-2026-09-24T13-33-06-01a0d1e7-38b4-7eb2-8196-f9284ee67614.jsonl
+377.6 MB | 已分配 377.6 MB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Chromium Embedded Framework
+373.9 MB | 已分配 373.9 MB | /Users/doja/.codex/sessions/2026/10/06/rollout-2026-10-06T21-00-16-01a1114c-ed24-7543-a5d1-44ae1711a5bf.jsonl
+
+最近 7 天新增或修改的大文件（最多列出 50 条）：34 条
+1.58 GB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/libVECreator.dylib
+555.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/file/2026-10/归档.zip
+552.7 MB | /Users/doja/.codex/thread_history_1.sqlite
+468.6 MB | /Users/doja/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/消安检查/80279b26944a0a916c86790881b464f3.mp4
+424.1 MB | /Users/doja/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/消安检查/9867042a81a5729724ba1c45cb611ae8.mp4
+403.9 MB | /Users/doja/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/消安检查/94da5d501421ecfd42a20fb44cb67883.mp4
+397.2 MB | /Users/doja/Library/Containers/com.baidu.netdisk/Data/Library/Application Support/com.baidu.netdisk/2573c3d62241805d429ef038bf92930f/cloudpic.db
+377.6 MB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Chromium Embedded Framework
+373.9 MB | /Users/doja/.codex/sessions/2026/10/06/rollout-2026-10-06T21-00-16-01a1114c-ed24-7543-a5d1-44ae1711a5bf.jsonl
+357.7 MB | /Applications/WeChat.app/Contents/Resources/wechat.dylib
+343 MB | /Users/doja/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/消安检查/902b965e014a28021cc49bfb84c3a3ca.mp4
+312 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/db_storage/message/message_0.db
+289.6 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/314404da0e919047a63aaa5d5a40eff9_raw.mp4
+247.3 MB | /Users/doja/Library/Containers/com.baidu.netdisk/Data/Library/Application Support/com.baidu.netdisk/2573c3d62241805d429ef038bf92930f/filecache.db
+237.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/a2d2b3cf7e371e20501d39ce2e772ce0_raw.mp4
+236.3 MB | /Users/doja/.codex/sessions/2026/10/07/rollout-2026-10-07T17-13-50-01a115a3-fb49-7003-99e7-1eec2a8b5c3c.jsonl
+231.3 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/file/2026-10/视频成片36条.zip
+215.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/db_storage/message/biz_message_0.db
+197.9 MB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/bun
+197.1 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/file/2026-10/视频成片(1).zip
+196 MB | /Applications/WeChat.app/Contents/MacOS/WeChatAppEx.app/Contents/Frameworks/WeChatAppEx Framework.framework/Versions/C/WeChatAppEx Framework
+192.6 MB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/libvideoeditor.dylib
+190.8 MB | /Applications/VideoFusion-macOS.app/Contents/Resources/canvas_agent/models/chinese-clip-vit-base-patch16/onnx/model_quantized.onnx
+156.1 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/bd8e5d593a3089a3d1a3648247827ada_raw.mp4
+151.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/file/2026-10/视频成片.zip
+140.4 MB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/libcccreator.dylib
+121.8 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/b81888d7525917156ad982a8af9242da_raw.mp4
+121.3 MB | /Users/doja/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node
+119 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/38a2b857e46f456b2cc17c81f100c870_raw.mp4
+115.5 MB | /Applications/VideoFusion-macOS.app/Contents/Frameworks/libdeepagents_capi.dylib
+109.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/cb81e92362b80dd00fd32a5977d88596_raw.mp4
+109.6 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/17404012b1ed821f95d6681e23595574_raw.mp4
+107.8 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/db_storage/message/media_0.db
+107.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/9fd85aa6afa614f772b4fdd2148ca8da_raw.mp4
+
+专项诊断与建议：
+[红色] 混有需保留文件 | 38.23 GB | /Users/doja/Movies/CacheClip
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 4.49 GB | /Users/doja/Movies/JianyingPro/User Data/Projects
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 2.76 GB | /Users/doja/.codex/sessions
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 系统保护数据 | 2.71 GB | /private/var/db
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 混有需保留文件 | 1.78 GB | /Users/doja/Movies/JianyingPro/User Data/Cache
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 1.52 GB | /Users/doja/Movies/.gallery
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 874.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/a54be015c29b4eeb74c0ed3bfe49f80f_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 874.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/3361a53ad470c1c0ae8fa96e884e8cb3_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。 检测到多个硬链接，单独处理此路径可能不释放数据块。
+[红色] 视频、音频或拍摄素材 | 874.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/84a93338f89958c5765e23c545920d2f_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。 检测到多个硬链接，单独处理此路径可能不释放数据块。
+[红色] 视频、音频或拍摄素材 | 789.5 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/cfdb95903769618ebb7b9d8c90ae62f6_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 736.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/e16e13f0318cf75e69a9ad24715877a4_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 691.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/0146a0834229abde32366f7ef226fcea_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 691.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/9d3d692ef3897dab4812338039c315e0_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 678.1 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/初稿.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 651.5 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/3d5cbd656e6062fccaf0f31c690b23b2_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 650.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/b43253284d8ecfbf621601fc8256a8e6_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。 检测到多个硬链接，单独处理此路径可能不释放数据块。
+[红色] 视频、音频或拍摄素材 | 650.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/dec22606e44f07c5173b60d1f908e852_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。 检测到多个硬链接，单独处理此路径可能不释放数据块。
+[红色] 视频、音频或拍摄素材 | 636.3 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/74eb8a1b484f53b219c624c7c28ae03a_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。 检测到多个硬链接，单独处理此路径可能不释放数据块。
+[红色] 视频、音频或拍摄素材 | 636.3 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/9cab38e49359e295ab5eaa4541014ec1_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。 检测到多个硬链接，单独处理此路径可能不释放数据块。
+[红色] 视频、音频或拍摄素材 | 632.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/e3c46216321757d283181f98521366fc_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程或数据库文件 | 552.7 MB | /Users/doja/.codex/thread_history_1.sqlite
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 475.2 MB | /Library/Application Support/com.apple.idleassetsd/Customer/4KSDR240FPS/6D6834A4-2F0F-479A-B053-7D4DC5CB8EB7.mov
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 438.1 MB | /Users/doja/Library/Application Support/Blackmagic Design/DaVinci Resolve/Resolve Project Library/Resolve Projects
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 470.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/d5882885d1ba402737de8d9c69420517_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 412.8 MB | /Users/doja/.codex/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 403 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/75df027571909e9a27dda61d5e00f72a_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 402.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/f9762270e183ff92eca3564eaa041a2c_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程或数据库文件 | 397.2 MB | /Users/doja/Library/Containers/com.baidu.netdisk/Data/Library/Application Support/com.baidu.netdisk/2573c3d62241805d429ef038bf92930f/cloudpic.db
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 392.4 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/9861d22e739fb17a86067ba7be8ce314_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 392.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/fca4342f23da87a099194ecdb6e52a45_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 392.1 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-09/cc2ab8bd786eef0cfac9fbd42268a928_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程或数据库文件 | 312 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/db_storage/message/message_0.db
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 289.6 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/314404da0e919047a63aaa5d5a40eff9_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 混有需保留文件 | 269.8 MB | /Users/doja/Movies/JianyingPro/User Data/CEF/Cache
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程或数据库文件 | 247.3 MB | /Users/doja/Library/Containers/com.baidu.netdisk/Data/Library/Application Support/com.baidu.netdisk/2573c3d62241805d429ef038bf92930f/filecache.db
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 237.9 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/a2d2b3cf7e371e20501d39ce2e772ce0_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程或数据库文件 | 215.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/db_storage/message/biz_message_0.db
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 156.1 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/bd8e5d593a3089a3d1a3648247827ada_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 121.8 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/b81888d7525917156ad982a8af9242da_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 119 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/38a2b857e46f456b2cc17c81f100c870_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 109.7 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/cb81e92362b80dd00fd32a5977d88596_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 109.6 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/17404012b1ed821f95d6681e23595574_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 108.6 MB | /Users/doja/Movies/JianyingPro/User Data/Log
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程或数据库文件 | 107.8 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/db_storage/message/media_0.db
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 视频、音频或拍摄素材 | 107.2 MB | /Users/doja/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_g29up4quqqpj21_17a6/msg/video/2026-10/9fd85aa6afa614f772b4fdd2148ca8da_raw.mp4
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 67.6 MB | /Users/doja/.codex/.tmp/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 50.6 MB | /Users/doja/.codex/.tmp/bundled-marketplaces/openai-bundled/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 28.9 MB | /Applications/TencentMeeting.app/Contents/Frameworks/WeMeetFramework.framework/Versions/3.33.3.402/Frameworks/WeMeet.framework/Versions/A/Resources/WeMeetResource.bundle/Contents/Resources/raw
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 16.2 MB | /Users/doja/Library/Application Support/Blackmagic Design/DaVinci Resolve/logs
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 6 MB | /Users/doja/.codex/vendor_imports/skills
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 2.5 MB | /Users/doja/Movies/JianyingPro/User Data/CEF/Movies/JianyingPro/User Data/CEF/Cache
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 项目版本历史 | 2.3 MB | /Users/doja/WeChatProjects/miniprogram-1/.git
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 2 MB | /Users/doja/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/Resources/xslt/export
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 4.9 MB | /Users/doja/Library/Application Support/Codex/Default/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 1.9 MB | /Applications/One Markdown.app/Contents/Resources/assets/mathjax/output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 18 KB | /Users/doja/Movies/JianyingPro/User Data/Migration/log
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 557 KB | /Users/doja/Library/Application Support/Codex/Default/Partitions/codex-browser-app/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 308 KB | /Users/doja/.codex/skills
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 284 KB | /Users/doja/Library/Caches/Codex
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 289 KB | /Users/doja/.cache/uv/archive-v0/XVQ9kij0dCKsWIInWhj8v/torch/export
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 557 KB | /Users/doja/Library/Application Support/Codex/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 557 KB | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/GPUCache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 235 KB | /Users/doja/Movies/JianyingPro/User Data/CEF/1/Cache
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] Codex 待处理崩溃报告 | 203 KB | /Users/doja/Library/Application Support/Codex/Crashpad/pending
+  先保留最近问题所需的报告，确认不再排查且应用已退出后再判断历史报告。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 423 KB | /Applications/GarageBand.app/Contents/Resources/Patches/Output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 145 KB | /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/modelscope/outputs
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 8 KB | /Users/doja/Library/Application Support/Codex/Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Code Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/Code Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 1 KB | /Users/doja/Movies/JianyingPro/User Data/CEF/1/JianyingPro/User Data/CEF/1/Cache
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 0 KB | /Users/doja/.codex/computer-use/sessions
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Default/Partitions/codex-browser-app/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Default/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 KB | /Users/doja/Library/Application Support/Codex/codex-browser-app/Shared Dictionary/cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 1 KB | /Applications/Adobe Photoshop 2020/Adobe Photoshop 2020.app/Contents/Required/Plug-ins/Generator/assets.generate/node_modules/fs-extra/lib/output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 1 KB | /Applications/Adobe Photoshop 2020/Adobe Photoshop 2020.app/Contents/Required/Plug-ins/Generator/crema.generate/node_modules/fs-extra/lib/output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 1 KB | /Library/Application Support/Adobe/Creative Cloud Libraries/CCLibrary.app/Contents/js/node_modules/fs-extra/lib/output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 2 KB | /Library/Application Support/GarageBand/Learn to Play/Basic Lessons/Guitar Lesson 1.mwand/Output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 2 KB | /Library/Application Support/GarageBand/Learn to Play/Basic Lessons/Piano Lesson 1.mwand/Output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 3 KB | /Users/doja/.codex/.tmp/bundled-marketplaces/openai-bundled/.agents/plugins
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 4 KB | /Users/doja/Library/Containers/com.netease.163music/Data/Documents/storage/UALogs/loggerBasePath/output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] Codex 运行日志 | 1 KB | /Users/doja/Library/Logs/com.openai.codex
+  观察同一范围的后续增长，保存近期故障证据。日志数据库及其 WAL/SHM 必须作为整体考虑，运行期间不能直接删除。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 0 B | /Users/doja/.codex/memories
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 混有需保留文件 | 0 B | /Users/doja/.codex/tmp
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 0 B | /Users/doja/Library/Application Support/Adobe/Common/LUTs/Output
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 0 B | /Users/doja/Library/Application Support/Claude/local-agent-mode-sessions/5e6259a0-c363-4d18-942b-cf95178d122e/019ca4e9-1ef9-475e-b51c-91fb9f687759/local_47ea8c00-dc76-4530-8b51-2d922675b300/outputs
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 0 B | /Users/doja/Library/Application Support/Claude/local-agent-mode-sessions/5e6259a0-c363-4d18-942b-cf95178d122e/019ca4e9-1ef9-475e-b51c-91fb9f687759/local_92a77f67-6538-4299-8c15-2bc2e739cf83/outputs
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 工程、原始素材或作品文件 | 0 B | /Users/doja/Library/Application Support/Claude/local-agent-mode-sessions/5e6259a0-c363-4d18-942b-cf95178d122e/019ca4e9-1ef9-475e-b51c-91fb9f687759/local_ba47e296-1aad-4bcd-bcfa-845517f13225/outputs
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] Codex 会话、配置与工作文件 | 0 B | /Users/doja/Library/Application Support/Codex/Default/Partitions/codex-browser-app/Sessions
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 混有需保留文件 | 0 B | /Users/doja/Library/Application Support/Codex/GPUPersistentCache/GPUCache
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[绿色] Codex 可再生成的应用缓存 | 0 B | /Users/doja/Library/Application Support/Codex/Partitions/codex-browser-app/Cache
+  应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 0 B | /Users/doja/Library/Containers/com.lemon.lvpro/Data/Library/Caches
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 0 B | /Users/doja/Library/Containers/com.lemon.lvpro/Data/Library/Logs
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[黄色] 影视软件缓存或日志（需确认） | 0 B | /Users/doja/Movies/JianyingPro/User Data/Resources/templateDraft/cache
+  在应用内核对目录用途和正在使用的工程。临时输出可能尚未完成，历史缓存也可能仍被工程引用；确认后再处理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+[红色] 系统保护数据 | 0 B | /private/var/vm
+  默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。
+未扫描：/Library/Apple/usr/libexec/oah/translate_tool · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/usr/libexec/oah/runtime · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/usr/libexec/oah/debugserver · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/XProtect.meta.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/XProtect.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/LaunchAgents/com.apple.XProtect.agent.scan.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/LaunchAgents/com.apple.XProtect.agent.scan.startup.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/LaunchAgents/com.apple.XprotectFramework.PluginService.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceInterfaceClient.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceInterfaceClient.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceInterfaceClient.framework/DeviceInterfaceClient · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/RemotePairing · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/XPCServices · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/AirTrafficHost.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/AirTrafficHost.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/AirTrafficHost.framework/AirTrafficHost · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceLink.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceLink.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceLink.framework/DeviceLink · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/Mercury.framework/Mercury · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/Mercury.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/Mercury.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/MobileDevice · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/XPCServices · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceInterface.framework/DeviceInterface · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceInterface.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/PrivateFrameworks/DeviceInterface.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/LaunchDaemons/com.apple.XProtect.daemon.scan.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/LaunchDaemons/com.apple.XprotectFramework.PluginService.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Apple/System/Library/LaunchDaemons/com.apple.XProtect.daemon.scan.startup.plist · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/ParentalControls/Users · 无权限，未扫描：Permission denied
+未扫描：/Library/Application Support/Apple/AssetCache/Data · 无权限，未扫描：Permission denied
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Catalogs/CARD.ppcatalog/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Catalogs/BOOK.ppcatalog/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Catalogs/CALENDAR.ppcatalog/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/Picture_Book_Photos_OSX_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/ModernLines-Large_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/ModernLines-Calendar_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/Travelogue_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/Journal-Large_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/HolidayColors-FoldedCard_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/YearInReview-FoldedCard_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/PictureCard-Postcard_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/HolidayColors-Postcard_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/BentoBox_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/YearInReview-Postcard_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/BigDate-Calendar_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/PremiumClassic-FoldedCard_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/Portfolio_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/Picture-Calendar_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/PictureCard-FoldedCard_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/SquareBySquare_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Previews/PhotoEssay-Large_Preview.pppreview/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/ModernLines-Calendar.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/PictureCard-FoldedCard.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/PictureCard-Postcard.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/PhotoEssay-Large.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/SquareBySquare.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/BigDate-Calendar.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/HolidayColors-Postcard.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/BentoBox.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/YearInReview-Postcard.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/ModernLines-Large.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/Picture-Calendar.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/YearInReview-FoldedCard.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/Journal-Large.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/Portfolio.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/Picture_Book_Photos_OSX.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/Travelogue.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/PremiumClassic-FoldedCard.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Apple/Photos/Print Products/Themes/HolidayColors-FoldedCard.pptheme/Contents · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Mozilla/NativeMessagingHosts/com.apple.passwordmanager.json · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/17_0/TCDesignerCore.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/17_0/TCDesignerCore.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/17_0/TCDesignerCore.framework/TCDesignerCore · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/17_0/TCDesignerCore.framework/Headers · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/2023_1/TCDesignerCore.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/2023_1/TCDesignerCore.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/2023_1/TCDesignerCore.framework/TCDesignerCore · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/2023_1/TCDesignerCore.framework/Headers · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0_Form/TCDesignerCore.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0_Form/TCDesignerCore.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0_Form/TCDesignerCore.framework/TCDesignerCore · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0_Form/TCDesignerCore.framework/Headers · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0/TCDesignerCore.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0/TCDesignerCore.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0/TCDesignerCore.framework/TCDesignerCore · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/18_0/TCDesignerCore.framework/Headers · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/15_1/TCDesignerCore.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/15_1/TCDesignerCore.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/15_1/TCDesignerCore.framework/TCDesignerCore · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/Trapcode/15_1/TCDesignerCore.framework/Headers · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/ContentCore/Runtimes/2.0/ContentCoreUI.framework/Resources · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/ContentCore/Runtimes/2.0/ContentCoreUI.framework/Versions/Current · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/ContentCore/Runtimes/2.0/ContentCoreUI.framework/Headers · 符号链接未扫描，不跟随其目标
+未扫描：/Library/Application Support/Red Giant/ContentCore/Runtimes/2.0/ContentCoreUI.framework/Modules · 符号链接未扫描，不跟随其目标
+
+过去空间突减的原因：原因待确认。尚无异常前的可比较扫描或监控记录。
+
+逻辑大小按文件路径累计；已分配大小按文件身份去重并包含目录元数据。APFS 克隆、快照及扫描范围外的硬链接可能共享或保留磁盘块；这些值不能证明删除可释放的空间。第一阶段只读，不删除或移动文件。
+
+已保存真实扫描报告：/Volumes/DOJA01/有亿点想法/DOJA-Mac-Doctor/docs/local-internal-scan.json

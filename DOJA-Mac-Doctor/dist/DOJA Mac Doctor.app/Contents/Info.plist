@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>DOJA Mac Doctor</string>
+<key>CFBundleDisplayName</key><string>DOJA Mac Doctor</string>
+<key>CFBundleIdentifier</key><string>studio.doja.macdoctor</string>
+<key>CFBundleExecutable</key><string>DOJAMacDoctor</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.3.0</string>
+<key>CFBundleVersion</key><string>3</string>
+<key>CFBundleIconFile</key><string>AppIcon.icns</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>NSHumanReadableCopyright</key><string>DOJA · 本机诊断与确认清理</string>
+</dict></plist>

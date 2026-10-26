@@ -1,0 +1,3622 @@
+{
+  "comparison" : [
+
+  ],
+  "explanation" : "目录含子目录，不能相加；分配空间已按硬链接去重，无法去重 APFS 克隆或快照。可回收量只有估算上限，实际可能为零。",
+  "exportInventory" : {
+    "exportedCoverageIssues" : 4,
+    "exportedDirectoryRecords" : 280,
+    "note" : "导出最多保留 2000 个最大目录及扫描根目录、1000 条覆盖问题；汇总大小和完整性仍来自全部扫描数据。未导出的条目不视为不存在。两次导出报告比较仅覆盖双方保留的完整目录。",
+    "totalCoverageIssues" : 4,
+    "totalDirectoryRecords" : 280
+  },
+  "scan" : {
+    "allocatedBytes" : 137621504,
+    "categories" : [
+      {
+        "allocatedBytes" : 132501504,
+        "count" : 816,
+        "id" : "其他文件",
+        "logicalBytes" : 140540307,
+        "name" : "其他文件"
+      },
+      {
+        "allocatedBytes" : 3481600,
+        "count" : 76,
+        "id" : "代码与配置",
+        "logicalBytes" : 3237663,
+        "name" : "代码与配置"
+      },
+      {
+        "allocatedBytes" : 1359872,
+        "count" : 43,
+        "id" : "日志与崩溃报告",
+        "logicalBytes" : 1247404,
+        "name" : "日志与崩溃报告"
+      },
+      {
+        "allocatedBytes" : 278528,
+        "count" : 8,
+        "id" : "工程与数据库",
+        "logicalBytes" : 217088,
+        "name" : "工程与数据库"
+      }
+    ],
+    "directories" : [
+      {
+        "allocatedBytes" : 137621504,
+        "containsProtectedFiles" : true,
+        "fileCount" : 943,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex",
+        "isComplete" : false,
+        "lastModified" : "2026-10-12T23:42:01Z",
+        "logicalBytes" : 145242462,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex"
+      },
+      {
+        "allocatedBytes" : 50425856,
+        "containsProtectedFiles" : false,
+        "fileCount" : 18,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:29Z",
+        "logicalBytes" : 50383618,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache"
+      },
+      {
+        "allocatedBytes" : 23384064,
+        "containsProtectedFiles" : true,
+        "fileCount" : 10,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine\/20260917.1",
+        "isComplete" : true,
+        "lastModified" : "2026-10-02T07:09:22Z",
+        "logicalBytes" : 23355142,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine\/20260917.1"
+      },
+      {
+        "allocatedBytes" : 23384064,
+        "containsProtectedFiles" : true,
+        "fileCount" : 10,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine",
+        "isComplete" : true,
+        "lastModified" : "2026-10-02T19:06:24Z",
+        "logicalBytes" : 23355142,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine"
+      },
+      {
+        "allocatedBytes" : 20434944,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0",
+        "isComplete" : true,
+        "lastModified" : "2026-10-07T22:08:24Z",
+        "logicalBytes" : 20421263,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0"
+      },
+      {
+        "allocatedBytes" : 20434944,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm",
+        "isComplete" : true,
+        "lastModified" : "2026-10-08T01:13:18Z",
+        "logicalBytes" : 20421263,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm"
+      },
+      {
+        "allocatedBytes" : 20422656,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_platform_specific\/mac_arm64",
+        "isComplete" : true,
+        "lastModified" : "2026-10-07T22:08:24Z",
+        "logicalBytes" : 20418323,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_platform_specific\/mac_arm64"
+      },
+      {
+        "allocatedBytes" : 20422656,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_platform_specific",
+        "isComplete" : true,
+        "lastModified" : "2026-10-07T22:08:24Z",
+        "logicalBytes" : 20418323,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_platform_specific"
+      },
+      {
+        "allocatedBytes" : 15802368,
+        "containsProtectedFiles" : true,
+        "fileCount" : 461,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default",
+        "isComplete" : true,
+        "lastModified" : "2026-10-13T02:54:21Z",
+        "logicalBytes" : 18792425,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default"
+      },
+      {
+        "allocatedBytes" : 13045760,
+        "containsProtectedFiles" : false,
+        "fileCount" : 60,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache",
+        "isComplete" : true,
+        "lastModified" : "2026-10-10T23:09:06Z",
+        "logicalBytes" : 12872566,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache"
+      },
+      {
+        "allocatedBytes" : 7655424,
+        "containsProtectedFiles" : true,
+        "fileCount" : 243,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T23:43:57Z",
+        "logicalBytes" : 7273428,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app"
+      },
+      {
+        "allocatedBytes" : 7655424,
+        "containsProtectedFiles" : true,
+        "fileCount" : 243,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 7273428,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions"
+      },
+      {
+        "allocatedBytes" : 1769472,
+        "containsProtectedFiles" : false,
+        "fileCount" : 11,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-10-04T02:49:50Z",
+        "logicalBytes" : 4899892,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache"
+      },
+      {
+        "allocatedBytes" : 2646016,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists\/9.8200.9609",
+        "isComplete" : true,
+        "lastModified" : "2026-09-17T01:10:51Z",
+        "logicalBytes" : 2637093,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists\/9.8200.9609"
+      },
+      {
+        "allocatedBytes" : 2646016,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists",
+        "isComplete" : true,
+        "lastModified" : "2026-09-17T08:59:17Z",
+        "logicalBytes" : 2637093,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists"
+      },
+      {
+        "allocatedBytes" : 1110016,
+        "containsProtectedFiles" : false,
+        "fileCount" : 39,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app",
+        "isComplete" : true,
+        "lastModified" : "2026-05-30T11:03:51Z",
+        "logicalBytes" : 1796455,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app"
+      },
+      {
+        "allocatedBytes" : 1110016,
+        "containsProtectedFiles" : false,
+        "fileCount" : 39,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 1796455,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions"
+      },
+      {
+        "allocatedBytes" : 1703936,
+        "containsProtectedFiles" : false,
+        "fileCount" : 9,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:00Z",
+        "logicalBytes" : 1681789,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3"
+      },
+      {
+        "allocatedBytes" : 1703936,
+        "containsProtectedFiles" : false,
+        "fileCount" : 9,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:00Z",
+        "logicalBytes" : 1681789,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData"
+      },
+      {
+        "allocatedBytes" : 1335296,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation\/10831",
+        "isComplete" : true,
+        "lastModified" : "2026-10-10T22:44:43Z",
+        "logicalBytes" : 1322171,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation\/10831"
+      },
+      {
+        "allocatedBytes" : 1335296,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation",
+        "isComplete" : true,
+        "lastModified" : "2026-10-11T15:38:31Z",
+        "logicalBytes" : 1322171,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation"
+      },
+      {
+        "allocatedBytes" : 1544192,
+        "containsProtectedFiles" : true,
+        "fileCount" : 164,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T23:43:57Z",
+        "logicalBytes" : 1306447,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app"
+      },
+      {
+        "allocatedBytes" : 966656,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:24Z",
+        "logicalBytes" : 952404,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools"
+      },
+      {
+        "allocatedBytes" : 966656,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins",
+        "isComplete" : true,
+        "lastModified" : "2026-09-30T00:18:51Z",
+        "logicalBytes" : 952404,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins"
+      },
+      {
+        "allocatedBytes" : 897024,
+        "containsProtectedFiles" : false,
+        "fileCount" : 12,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:20Z",
+        "logicalBytes" : 865396,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata"
+      },
+      {
+        "allocatedBytes" : 659456,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:21Z",
+        "logicalBytes" : 643143,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny"
+      },
+      {
+        "allocatedBytes" : 581632,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints\/757",
+        "isComplete" : true,
+        "lastModified" : "2026-10-09T07:33:03Z",
+        "logicalBytes" : 573087,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints\/757"
+      },
+      {
+        "allocatedBytes" : 581632,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints",
+        "isComplete" : true,
+        "lastModified" : "2026-10-10T17:10:14Z",
+        "logicalBytes" : 573087,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/GPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/GPUCache"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnWebGPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnWebGPUCache"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnGraphiteCache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnGraphiteCache"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUCache"
+      },
+      {
+        "allocatedBytes" : 561152,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache"
+      },
+      {
+        "allocatedBytes" : 561152,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnWebGPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnWebGPUCache"
+      },
+      {
+        "allocatedBytes" : 561152,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnGraphiteCache",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnGraphiteCache"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnWebGPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:53Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnWebGPUCache"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnGraphiteCache",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:53Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnGraphiteCache"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnWebGPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnWebGPUCache"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnGraphiteCache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 557424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnGraphiteCache"
+      },
+      {
+        "allocatedBytes" : 520192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 12,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/shared_proto_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 485880,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/shared_proto_db"
+      },
+      {
+        "allocatedBytes" : 475136,
+        "containsProtectedFiles" : false,
+        "fileCount" : 12,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/shared_proto_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 442950,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/shared_proto_db"
+      },
+      {
+        "allocatedBytes" : 450560,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:24:19Z",
+        "logicalBytes" : 436033,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter"
+      },
+      {
+        "allocatedBytes" : 450560,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1803",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:20Z",
+        "logicalBytes" : 434134,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1803"
+      },
+      {
+        "allocatedBytes" : 446464,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1798",
+        "isComplete" : true,
+        "lastModified" : "2026-10-05T02:17:54Z",
+        "logicalBytes" : 431262,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1798"
+      },
+      {
+        "allocatedBytes" : 421888,
+        "containsProtectedFiles" : false,
+        "fileCount" : 16,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker",
+        "isComplete" : true,
+        "lastModified" : "2026-08-18T03:40:08Z",
+        "logicalBytes" : 375851,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker"
+      },
+      {
+        "allocatedBytes" : 344064,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.8.62",
+        "isComplete" : true,
+        "lastModified" : "2026-10-08T16:22:10Z",
+        "logicalBytes" : 334461,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.8.62"
+      },
+      {
+        "allocatedBytes" : 348160,
+        "containsProtectedFiles" : false,
+        "fileCount" : 8,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Local Storage\/leveldb",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:42:07Z",
+        "logicalBytes" : 329914,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Local Storage\/leveldb"
+      },
+      {
+        "allocatedBytes" : 348160,
+        "containsProtectedFiles" : false,
+        "fileCount" : 8,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Local Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 329914,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Local Storage"
+      },
+      {
+        "allocatedBytes" : 315392,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.12.62",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:21Z",
+        "logicalBytes" : 308682,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.12.62"
+      },
+      {
+        "allocatedBytes" : 253952,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Indexed Rules\/38\/9.72.0",
+        "isComplete" : true,
+        "lastModified" : "2026-09-24T02:45:00Z",
+        "logicalBytes" : 251248,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Indexed Rules\/38\/9.72.0"
+      },
+      {
+        "allocatedBytes" : 253952,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Indexed Rules\/38",
+        "isComplete" : true,
+        "lastModified" : "2026-09-24T13:42:30Z",
+        "logicalBytes" : 251248,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Indexed Rules\/38"
+      },
+      {
+        "allocatedBytes" : 253952,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Indexed Rules",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T20:02:30Z",
+        "logicalBytes" : 251248,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Indexed Rules"
+      },
+      {
+        "allocatedBytes" : 262144,
+        "containsProtectedFiles" : false,
+        "fileCount" : 15,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:35:21Z",
+        "logicalBytes" : 209266,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad"
+      },
+      {
+        "allocatedBytes" : 249856,
+        "containsProtectedFiles" : false,
+        "fileCount" : 13,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/pending",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:50:38Z",
+        "logicalBytes" : 203078,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/pending"
+      },
+      {
+        "allocatedBytes" : 212992,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/ScriptCache",
+        "isComplete" : true,
+        "lastModified" : "2026-09-04T11:57:58Z",
+        "logicalBytes" : 199662,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/ScriptCache"
+      },
+      {
+        "allocatedBytes" : 196608,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Unindexed Rules\/9.72.0",
+        "isComplete" : true,
+        "lastModified" : "2026-09-24T02:45:00Z",
+        "logicalBytes" : 184785,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Unindexed Rules\/9.72.0"
+      },
+      {
+        "allocatedBytes" : 196608,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Unindexed Rules",
+        "isComplete" : true,
+        "lastModified" : "2026-09-24T13:42:16Z",
+        "logicalBytes" : 184785,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Unindexed Rules"
+      },
+      {
+        "allocatedBytes" : 188416,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SafetyTips\/3092",
+        "isComplete" : true,
+        "lastModified" : "2026-10-10T17:44:43Z",
+        "logicalBytes" : 180303,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SafetyTips\/3092"
+      },
+      {
+        "allocatedBytes" : 188416,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SafetyTips",
+        "isComplete" : true,
+        "lastModified" : "2026-10-11T15:38:31Z",
+        "logicalBytes" : 180303,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SafetyTips"
+      },
+      {
+        "allocatedBytes" : 180224,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage\/b6c921c0aef15f27669b099bbbf127e4c9ea4ca9",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T13:56:48Z",
+        "logicalBytes" : 166852,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage\/b6c921c0aef15f27669b099bbbf127e4c9ea4ca9"
+      },
+      {
+        "allocatedBytes" : 180224,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage",
+        "isComplete" : true,
+        "lastModified" : "2026-08-18T03:40:08Z",
+        "logicalBytes" : 166852,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage"
+      },
+      {
+        "allocatedBytes" : 176128,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage\/b6c921c0aef15f27669b099bbbf127e4c9ea4ca9\/36d2ed81-5e4c-47ed-8182-0283c5e0d73b",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T13:57:04Z",
+        "logicalBytes" : 166664,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage\/b6c921c0aef15f27669b099bbbf127e4c9ea4ca9\/36d2ed81-5e4c-47ed-8182-0283c5e0d73b"
+      },
+      {
+        "allocatedBytes" : 159744,
+        "containsProtectedFiles" : false,
+        "fileCount" : 8,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Local Storage\/leveldb",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 138638,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Local Storage\/leveldb"
+      },
+      {
+        "allocatedBytes" : 159744,
+        "containsProtectedFiles" : false,
+        "fileCount" : 8,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Local Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 138638,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Local Storage"
+      },
+      {
+        "allocatedBytes" : 172032,
+        "containsProtectedFiles" : false,
+        "fileCount" : 20,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationGuideModelsManifest\/1.20261005.5",
+        "isComplete" : true,
+        "lastModified" : "2026-10-06T16:11:02Z",
+        "logicalBytes" : 130824,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationGuideModelsManifest\/1.20261005.5"
+      },
+      {
+        "allocatedBytes" : 172032,
+        "containsProtectedFiles" : false,
+        "fileCount" : 20,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationGuideModelsManifest",
+        "isComplete" : true,
+        "lastModified" : "2026-10-07T04:26:50Z",
+        "logicalBytes" : 130824,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationGuideModelsManifest"
+      },
+      {
+        "allocatedBytes" : 143360,
+        "containsProtectedFiles" : false,
+        "fileCount" : 13,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/shared_proto_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 107389,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/shared_proto_db"
+      },
+      {
+        "allocatedBytes" : 69632,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/sentry",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 61076,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/sentry"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/WebStorage",
+        "isComplete" : true,
+        "lastModified" : "2026-08-17T00:12:50Z",
+        "logicalBytes" : 49680,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/WebStorage"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/WebStorage",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T19:43:24Z",
+        "logicalBytes" : 49680,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/WebStorage"
+      },
+      {
+        "allocatedBytes" : 49152,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/segmentation_platform",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 49152,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/segmentation_platform"
+      },
+      {
+        "allocatedBytes" : 65536,
+        "containsProtectedFiles" : false,
+        "fileCount" : 9,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Session Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-10-10T18:28:23Z",
+        "logicalBytes" : 46294,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Session Storage"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 45128,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 45128,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:35Z",
+        "logicalBytes" : 45128,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 45128,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 45128,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 8,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Local Storage\/leveldb",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T23:22:53Z",
+        "logicalBytes" : 38823,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Local Storage\/leveldb"
+      },
+      {
+        "allocatedBytes" : 53248,
+        "containsProtectedFiles" : false,
+        "fileCount" : 8,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Local Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-09-27T03:58:10Z",
+        "logicalBytes" : 38823,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Local Storage"
+      },
+      {
+        "allocatedBytes" : 40960,
+        "containsProtectedFiles" : false,
+        "fileCount" : 8,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:19Z",
+        "logicalBytes" : 19347,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments"
+      },
+      {
+        "allocatedBytes" : 24576,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/FirstPartySetsPreloaded\/2025.7.24.0",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:05Z",
+        "logicalBytes" : 13874,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/FirstPartySetsPreloaded\/2025.7.24.0"
+      },
+      {
+        "allocatedBytes" : 24576,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/FirstPartySetsPreloaded",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:05Z",
+        "logicalBytes" : 13874,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/FirstPartySetsPreloaded"
+      },
+      {
+        "allocatedBytes" : 45056,
+        "containsProtectedFiles" : false,
+        "fileCount" : 12,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GCM Store",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 12344,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GCM Store"
+      },
+      {
+        "allocatedBytes" : 24576,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.8.3.1",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T11:37:34Z",
+        "logicalBytes" : 12254,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.8.3.1"
+      },
+      {
+        "allocatedBytes" : 49152,
+        "containsProtectedFiles" : false,
+        "fileCount" : 14,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB",
+        "isComplete" : true,
+        "lastModified" : "2026-08-18T03:40:08Z",
+        "logicalBytes" : 11518,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB"
+      },
+      {
+        "allocatedBytes" : 45056,
+        "containsProtectedFiles" : false,
+        "fileCount" : 12,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GCM Store",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 11162,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GCM Store"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/MEIPreload\/1.1.0.3",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:00Z",
+        "logicalBytes" : 10187,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/MEIPreload\/1.1.0.3"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/MEIPreload",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:00Z",
+        "logicalBytes" : 10187,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/MEIPreload"
+      },
+      {
+        "allocatedBytes" : 45056,
+        "containsProtectedFiles" : false,
+        "fileCount" : 12,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/GCM Store",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 10095,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/GCM Store"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/FileTypePolicies\/145.0.7584.0",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:25:57Z",
+        "logicalBytes" : 9563,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/FileTypePolicies\/145.0.7584.0"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/FileTypePolicies",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:25:57Z",
+        "logicalBytes" : 9563,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/FileTypePolicies"
+      },
+      {
+        "allocatedBytes" : 28672,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/Database",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 9337,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/Database"
+      },
+      {
+        "allocatedBytes" : 28672,
+        "containsProtectedFiles" : false,
+        "fileCount" : 7,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/https_developer.open-douyin.com_0.indexeddb.leveldb",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T13:56:27Z",
+        "logicalBytes" : 8663,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/https_developer.open-douyin.com_0.indexeddb.leveldb"
+      },
+      {
+        "allocatedBytes" : 28672,
+        "containsProtectedFiles" : false,
+        "fileCount" : 7,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:41:07Z",
+        "logicalBytes" : 8404,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache\/Cache_Data",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:41:13Z",
+        "logicalBytes" : 8380,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache\/Cache_Data"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.10.12.1",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:19Z",
+        "logicalBytes" : 7093,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.10.12.1"
+      },
+      {
+        "allocatedBytes" : 24576,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Session Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:20Z",
+        "logicalBytes" : 5700,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Session Storage"
+      },
+      {
+        "allocatedBytes" : 12288,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SSLErrorAssistant\/7",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:24:51Z",
+        "logicalBytes" : 4657,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SSLErrorAssistant\/7"
+      },
+      {
+        "allocatedBytes" : 12288,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SSLErrorAssistant",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:24:51Z",
+        "logicalBytes" : 4657,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SSLErrorAssistant"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationGuideModelsManifest\/1.20261005.5\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-06T16:11:02Z",
+        "logicalBytes" : 4382,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationGuideModelsManifest\/1.20261005.5\/_metadata"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/shared_proto_db\/metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 4119,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/shared_proto_db\/metadata"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/shared_proto_db\/metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 3975,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/shared_proto_db\/metadata"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/shared_proto_db\/metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 3829,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/shared_proto_db\/metadata"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Site Characteristics Database",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 2639,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Site Characteristics Database"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine\/20260917.1\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-02T07:09:22Z",
+        "logicalBytes" : 2610,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine\/20260917.1\/_metadata"
+      },
+      {
+        "allocatedBytes" : 12288,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/AmountExtractionHeuristicRegexes\/4",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:01Z",
+        "logicalBytes" : 2497,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/AmountExtractionHeuristicRegexes\/4"
+      },
+      {
+        "allocatedBytes" : 12288,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/AmountExtractionHeuristicRegexes",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:01Z",
+        "logicalBytes" : 2497,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/AmountExtractionHeuristicRegexes"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:00Z",
+        "logicalBytes" : 2437,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3\/_metadata"
+      },
+      {
+        "allocatedBytes" : 12288,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/CaptchaProviders\/8.5419.4434",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:03Z",
+        "logicalBytes" : 2283,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/CaptchaProviders\/8.5419.4434"
+      },
+      {
+        "allocatedBytes" : 12288,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/CaptchaProviders",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:03Z",
+        "logicalBytes" : 2283,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/CaptchaProviders"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools\/scripts",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:24Z",
+        "logicalBytes" : 2206,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools\/scripts"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.leveldb",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T19:43:26Z",
+        "logicalBytes" : 2143,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.leveldb"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1803\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:20Z",
+        "logicalBytes" : 2080,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1803\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1798\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-05T02:17:54Z",
+        "logicalBytes" : 2080,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1798\/_metadata"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Local Storage\/leveldb",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 1890,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Local Storage\/leveldb"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Local Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 1890,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Local Storage"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.10.12.1\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:19Z",
+        "logicalBytes" : 1865,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.10.12.1\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/FirstPartySetsPreloaded\/2025.7.24.0\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:05Z",
+        "logicalBytes" : 1864,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/FirstPartySetsPreloaded\/2025.7.24.0\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.8.3.1\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T11:37:34Z",
+        "logicalBytes" : 1862,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/TrustTokenKeyCommitments\/2026.8.3.1\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/CaptchaProviders\/8.5419.4434\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:03Z",
+        "logicalBytes" : 1778,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/CaptchaProviders\/8.5419.4434\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/AmountExtractionHeuristicRegexes\/4\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:01Z",
+        "logicalBytes" : 1770,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/AmountExtractionHeuristicRegexes\/4\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.12.62\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:27:21Z",
+        "logicalBytes" : 1768,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.12.62\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints\/757\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-09T07:33:03Z",
+        "logicalBytes" : 1766,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints\/757\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/MEIPreload\/1.1.0.3\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:26:00Z",
+        "logicalBytes" : 1766,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/MEIPreload\/1.1.0.3\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.8.62\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-08T16:22:10Z",
+        "logicalBytes" : 1766,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.8.62\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists\/9.8200.9609\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-09-17T01:10:51Z",
+        "logicalBytes" : 1766,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists\/9.8200.9609\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SSLErrorAssistant\/7\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:24:51Z",
+        "logicalBytes" : 1765,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SSLErrorAssistant\/7\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SafetyTips\/3092\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-10T17:44:43Z",
+        "logicalBytes" : 1758,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SafetyTips\/3092\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-07T22:08:24Z",
+        "logicalBytes" : 1569,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Unindexed Rules\/9.72.0\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-09-24T02:45:00Z",
+        "logicalBytes" : 1529,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Subresource Filter\/Unindexed Rules\/9.72.0\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation\/10831\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-10-10T22:44:43Z",
+        "logicalBytes" : 1512,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation\/10831\/_metadata"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/FileTypePolicies\/145.0.7584.0\/_metadata",
+        "isComplete" : true,
+        "lastModified" : "2026-06-30T20:25:57Z",
+        "logicalBytes" : 1439,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/FileTypePolicies\/145.0.7584.0\/_metadata"
+      },
+      {
+        "allocatedBytes" : 36864,
+        "containsProtectedFiles" : false,
+        "fileCount" : 12,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System",
+        "isComplete" : true,
+        "lastModified" : "2026-09-04T11:58:01Z",
+        "logicalBytes" : 1294,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Session Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:51Z",
+        "logicalBytes" : 1173,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Session Storage"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Extension State",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 905,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Extension State"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/Origins",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T13:56:27Z",
+        "logicalBytes" : 872,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/Origins"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sync Data\/LevelDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 864,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sync Data\/LevelDB"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sync Data",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 864,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sync Data"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Site Characteristics Database",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 811,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Site Characteristics Database"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GCM Store\/Encryption",
+        "isComplete" : true,
+        "lastModified" : "2026-10-02T19:06:28Z",
+        "logicalBytes" : 805,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GCM Store\/Encryption"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Extension State",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 789,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Extension State"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Sync Data\/LevelDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 788,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Sync Data\/LevelDB"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Sync Data",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 788,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Sync Data"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Extension State",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 772,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Extension State"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Site Characteristics Database",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 771,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Site Characteristics Database"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Sync Data\/LevelDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 748,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Sync Data\/LevelDB"
+      },
+      {
+        "allocatedBytes" : 20480,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Sync Data",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 748,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Sync Data"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/GCM Store\/Encryption",
+        "isComplete" : true,
+        "lastModified" : "2026-10-02T19:06:28Z",
+        "logicalBytes" : 729,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/GCM Store\/Encryption"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.blob\/1\/00",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T19:43:24Z",
+        "logicalBytes" : 712,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.blob\/1\/00"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.blob\/1",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T19:43:24Z",
+        "logicalBytes" : 712,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.blob\/1"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.blob",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T19:43:24Z",
+        "logicalBytes" : 712,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/IndexedDB\/http_localhost_3000.indexeddb.blob"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GCM Store\/Encryption",
+        "isComplete" : true,
+        "lastModified" : "2026-10-02T19:06:28Z",
+        "logicalBytes" : 689,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GCM Store\/Encryption"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Extension Rules",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 458,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Extension Rules"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Local Storage\/leveldb",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 429,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Local Storage\/leveldb"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Local Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 429,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Local Storage"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Extension Scripts",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 424,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Extension Scripts"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/000\/t",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T14:01:27Z",
+        "logicalBytes" : 422,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/000\/t"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/000",
+        "isComplete" : true,
+        "lastModified" : "2026-09-04T11:58:01Z",
+        "logicalBytes" : 422,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/000"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Session Storage",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T01:25:03Z",
+        "logicalBytes" : 417,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Session Storage"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Extension Rules",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 402,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Extension Rules"
+      },
+      {
+        "allocatedBytes" : 12288,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/000\/t\/Paths",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T14:01:27Z",
+        "logicalBytes" : 398,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/File System\/000\/t\/Paths"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Extension Rules",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 384,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Extension Rules"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Extension Scripts",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 369,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Extension Scripts"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 5,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Extension Scripts",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 368,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Extension Scripts"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools\/.codex-plugin",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:24Z",
+        "logicalBytes" : 235,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools\/.codex-plugin"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 144,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "containsProtectedFiles" : false,
+        "fileCount" : 4,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 144,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache\/Cache_Data\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:41:34Z",
+        "logicalBytes" : 120,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache\/Cache_Data\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/ScriptCache\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T13:56:47Z",
+        "logicalBytes" : 96,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/ScriptCache\/index-dir"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary\/cache",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary\/cache"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary\/cache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary\/cache"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary\/cache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:35Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary\/cache"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/wasm",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/wasm"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/js",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/js"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary\/cache",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary\/cache"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary\/cache",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary\/cache"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage\/b6c921c0aef15f27669b099bbbf127e4c9ea4ca9\/36d2ed81-5e4c-47ed-8182-0283c5e0d73b\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-09-15T13:56:47Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Service Worker\/CacheStorage\/b6c921c0aef15f27669b099bbbf127e4c9ea4ca9\/36d2ed81-5e4c-47ed-8182-0283c5e0d73b\/index-dir"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/wasm",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/wasm"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/js",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 72,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/js"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary\/cache\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary\/cache\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary\/cache\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary\/cache\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary\/cache\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:35Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary\/cache\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/wasm\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/wasm\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/js\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache\/js\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary\/cache\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary\/cache\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary\/cache\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary\/cache\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/wasm\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/wasm\/index-dir"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/js\/index-dir",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 48,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache\/js\/index-dir"
+      },
+      {
+        "allocatedBytes" : 8192,
+        "containsProtectedFiles" : false,
+        "fileCount" : 2,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache\/No_Vary_Search",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:41:10Z",
+        "logicalBytes" : 24,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache\/No_Vary_Search"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/extensions_crx_cache",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:53:05Z",
+        "logicalBytes" : 13,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/extensions_crx_cache"
+      },
+      {
+        "allocatedBytes" : 4096,
+        "containsProtectedFiles" : false,
+        "fileCount" : 1,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/sentry\/queue",
+        "isComplete" : true,
+        "lastModified" : "2026-10-13T01:12:57Z",
+        "logicalBytes" : 2,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/sentry\/queue"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/parcel_tracking_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/parcel_tracking_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/optimization_guide_hint_cache_store",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/optimization_guide_hint_cache_store"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/discounts_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/discounts_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/discount_infos_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/discount_infos_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/commerce_subscription_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/commerce_subscription_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/chrome_cart_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/chrome_cart_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/blob_storage\/33a687dd-26b5-4241-a733-b69a0dbae5dc",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/blob_storage\/33a687dd-26b5-4241-a733-b69a0dbae5dc"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/blob_storage",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/blob_storage"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform\/SignalStorageConfigDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform\/SignalStorageConfigDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform\/SignalDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform\/SignalDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform\/SegmentInfoDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform\/SegmentInfoDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 9,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:44Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Segmentation Platform"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/PersistentOriginTrials",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/PersistentOriginTrials"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Feature Engagement Tracker\/EventDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Feature Engagement Tracker\/EventDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Feature Engagement Tracker\/AvailabilityDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Feature Engagement Tracker\/AvailabilityDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Feature Engagement Tracker",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:47Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Feature Engagement Tracker"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Download Service\/Files",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:54Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Download Service\/Files"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Download Service\/EntryDB",
+        "isComplete" : true,
+        "lastModified" : "2026-09-04T10:11:53Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Download Service\/EntryDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Download Service",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T20:24:54Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Download Service"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/ClientCertificates",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:17Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/ClientCertificates"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/BudgetDatabase",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/BudgetDatabase"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/AutofillStrikeDatabase",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/AutofillStrikeDatabase"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/AutofillAiModelCache",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/AutofillAiModelCache"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/blob_storage\/1a0bdfb4-1411-478e-98d9-9f5a1a0a5b2f",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:41:07Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/blob_storage\/1a0bdfb4-1411-478e-98d9-9f5a1a0a5b2f"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/blob_storage",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:41:07Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/blob_storage"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/artifact-sessions\/runtime-generations",
+        "isComplete" : true,
+        "lastModified" : "2026-09-05T03:34:32Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/artifact-sessions\/runtime-generations"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/artifact-sessions",
+        "isComplete" : true,
+        "lastModified" : "2026-09-05T03:34:32Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/artifact-sessions"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Safe Browsing",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Safe Browsing"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PrivacySandboxAttestationsPreloaded",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PrivacySandboxAttestationsPreloaded"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/blob_storage\/82f690ec-46be-4812-9c38-80607265c58b",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/blob_storage\/82f690ec-46be-4812-9c38-80607265c58b"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/blob_storage",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/blob_storage"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache\/No_Vary_Search",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache\/No_Vary_Search"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache\/Cache_Data",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache\/Cache_Data"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache",
+        "isComplete" : true,
+        "lastModified" : "2026-05-29T00:09:34Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OriginTrials",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OriginTrials"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OnDeviceHeadSuggestModel",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OnDeviceHeadSuggestModel"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : true,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache\/GPUCache\/KARDINWZ6MJY46YCZGKYYYXTFAOJZ6IK",
+        "isComplete" : true,
+        "lastModified" : "2026-10-04T02:49:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache\/GPUCache\/KARDINWZ6MJY46YCZGKYYYXTFAOJZ6IK"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : true,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache\/GPUCache",
+        "isComplete" : true,
+        "lastModified" : "2026-10-04T02:49:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache\/GPUCache"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : true,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/parcel_tracking_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/parcel_tracking_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/optimization_guide_hint_cache_store",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/optimization_guide_hint_cache_store"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/discounts_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/discounts_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/discount_infos_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/discount_infos_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/commerce_subscription_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/commerce_subscription_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/chrome_cart_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/chrome_cart_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/blob_storage\/caab2454-5b8f-4753-aeaa-e17a2c73a40a",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/blob_storage\/caab2454-5b8f-4753-aeaa-e17a2c73a40a"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/blob_storage",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/blob_storage"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/VideoDecodeStats",
+        "isComplete" : true,
+        "lastModified" : "2026-10-09T14:27:57Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/VideoDecodeStats"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform\/SignalStorageConfigDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform\/SignalStorageConfigDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform\/SignalDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform\/SignalDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform\/SegmentInfoDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform\/SegmentInfoDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 9,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:52Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Segmentation Platform"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/PersistentOriginTrials",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/PersistentOriginTrials"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/parcel_tracking_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/parcel_tracking_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/optimization_guide_hint_cache_store",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/optimization_guide_hint_cache_store"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/discounts_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/discounts_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/discount_infos_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/discount_infos_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/commerce_subscription_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/commerce_subscription_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/chrome_cart_db",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/chrome_cart_db"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/blob_storage\/0d51098d-e82b-4baa-9201-01a745a2515d",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/blob_storage\/0d51098d-e82b-4baa-9201-01a745a2515d"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/blob_storage",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/blob_storage"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/VideoDecodeStats",
+        "isComplete" : true,
+        "lastModified" : "2026-10-06T19:21:22Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/VideoDecodeStats"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sessions",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T12:36:47Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sessions"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform\/SignalStorageConfigDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform\/SignalStorageConfigDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform\/SignalDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform\/SignalDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform\/SegmentInfoDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform\/SegmentInfoDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 9,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:07Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Segmentation Platform"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/PersistentOriginTrials",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/PersistentOriginTrials"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Feature Engagement Tracker\/EventDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Feature Engagement Tracker\/EventDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Feature Engagement Tracker\/AvailabilityDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Feature Engagement Tracker\/AvailabilityDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Feature Engagement Tracker",
+        "isComplete" : true,
+        "lastModified" : "2026-07-16T03:58:08Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Feature Engagement Tracker"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/ClientCertificates",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/ClientCertificates"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/BudgetDatabase",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/BudgetDatabase"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/AutofillStrikeDatabase",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/AutofillStrikeDatabase"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/AutofillAiModelCache",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:19Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/AutofillAiModelCache"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/IndexedDB",
+        "isComplete" : true,
+        "lastModified" : "2026-09-30T00:18:51Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/IndexedDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Feature Engagement Tracker\/EventDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Feature Engagement Tracker\/EventDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Feature Engagement Tracker\/AvailabilityDB",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Feature Engagement Tracker\/AvailabilityDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 6,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Feature Engagement Tracker",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:52:55Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Feature Engagement Tracker"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Download Service\/Files",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:53:02Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Download Service\/Files"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Download Service\/EntryDB",
+        "isComplete" : true,
+        "lastModified" : "2026-08-16T11:36:42Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Download Service\/EntryDB"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Download Service",
+        "isComplete" : true,
+        "lastModified" : "2026-06-20T09:53:02Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Download Service"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/ClientCertificates",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/ClientCertificates"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/BudgetDatabase",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/BudgetDatabase"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/AutofillStrikeDatabase",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/AutofillStrikeDatabase"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 3,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/AutofillAiModelCache",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:26:18Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/AutofillAiModelCache"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/new",
+        "isComplete" : true,
+        "lastModified" : "2026-10-12T21:50:38Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/new"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/completed",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/completed"
+      },
+      {
+        "allocatedBytes" : 0,
+        "containsProtectedFiles" : false,
+        "fileCount" : 0,
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/attachments",
+        "isComplete" : true,
+        "lastModified" : "2026-05-28T17:13:37Z",
+        "logicalBytes" : 0,
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/attachments"
+      }
+    ],
+    "fileCount" : 943,
+    "finishedAt" : "2026-10-13T03:00:42Z",
+    "issues" : [
+      {
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/RunningChromeVersion::符号链接未扫描，不跟随其目标",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/RunningChromeVersion",
+        "reason" : "符号链接未扫描，不跟随其目标"
+      },
+      {
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SingletonSocket::符号链接未扫描，不跟随其目标",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SingletonSocket",
+        "reason" : "符号链接未扫描，不跟随其目标"
+      },
+      {
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SingletonCookie::符号链接未扫描，不跟随其目标",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SingletonCookie",
+        "reason" : "符号链接未扫描，不跟随其目标"
+      },
+      {
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/SingletonLock::符号链接未扫描，不跟随其目标",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/SingletonLock",
+        "reason" : "符号链接未扫描，不跟随其目标"
+      }
+    ],
+    "largestFiles" : [
+      {
+        "allocatedBytes" : 23359488,
+        "createdAt" : "2026-10-02T07:09:21Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/608de406394ea7501102b9d3df7def2f2a58ef27b1d534de66a32d38c250637d",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 23358256,
+        "modifiedAt" : "2026-10-02T07:09:21Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/608de406394ea7501102b9d3df7def2f2a58ef27b1d534de66a32d38c250637d"
+      },
+      {
+        "allocatedBytes" : 22966272,
+        "createdAt" : "2026-10-02T07:09:22Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine\/20260917.1\/bindings_main.wasm",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 22962435,
+        "modifiedAt" : "2026-10-02T07:09:22Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WasmTtsEngine\/20260917.1\/bindings_main.wasm"
+      },
+      {
+        "allocatedBytes" : 20426752,
+        "createdAt" : "2026-10-07T22:08:23Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/6bf32d10630d5aebe1ae2aafb510f43801347c30d012932764e63b5513325af4",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 20423379,
+        "modifiedAt" : "2026-10-07T22:08:23Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/6bf32d10630d5aebe1ae2aafb510f43801347c30d012932764e63b5513325af4"
+      },
+      {
+        "allocatedBytes" : 20418560,
+        "createdAt" : "2026-10-07T22:08:24Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_platform_specific\/mac_arm64\/libwidevinecdm.dylib",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 20416896,
+        "modifiedAt" : "2026-10-07T22:08:24Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/WidevineCdm\/4.10.3112.0\/_platform_specific\/mac_arm64\/libwidevinecdm.dylib"
+      },
+      {
+        "allocatedBytes" : 8396800,
+        "createdAt" : "2026-06-20T09:52:52Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache\/data_3",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 8396800,
+        "modifiedAt" : "2026-10-09T14:55:32Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache\/data_3"
+      },
+      {
+        "allocatedBytes" : 1294336,
+        "createdAt" : "2026-06-20T09:52:53Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache\/data_3",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 4202496,
+        "modifiedAt" : "2026-10-04T21:05:27Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache\/data_3"
+      },
+      {
+        "allocatedBytes" : 0,
+        "createdAt" : "2026-10-12T21:27:47Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/BrowserMetrics-spare.pma",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 4194304,
+        "modifiedAt" : "2026-10-12T21:27:47Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/BrowserMetrics-spare.pma"
+      },
+      {
+        "allocatedBytes" : 4124672,
+        "createdAt" : "2026-06-20T09:52:55Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DIPS-wal",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 4124152,
+        "modifiedAt" : "2026-10-12T23:41:51Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DIPS-wal"
+      },
+      {
+        "allocatedBytes" : 2891776,
+        "createdAt" : "2026-07-16T03:58:08Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DIPS-wal",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 2888152,
+        "modifiedAt" : "2026-10-11T06:29:21Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DIPS-wal"
+      },
+      {
+        "allocatedBytes" : 2641920,
+        "createdAt" : "2026-09-17T01:10:51Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/c1d06372335775cfd1512f62e8a0464d08f5058a6a622904f2357fb2c3aa6b09",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 2639389,
+        "modifiedAt" : "2026-09-17T01:10:51Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/c1d06372335775cfd1512f62e8a0464d08f5058a6a622904f2357fb2c3aa6b09"
+      },
+      {
+        "allocatedBytes" : 2637824,
+        "createdAt" : "2026-09-17T01:10:51Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists\/9.8200.9609\/listdata.json",
+        "kind" : "代码与配置",
+        "linkCount" : 1,
+        "logicalBytes" : 2635245,
+        "modifiedAt" : "2026-09-17T01:10:51Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ActorSafetyLists\/9.8200.9609\/listdata.json"
+      },
+      {
+        "allocatedBytes" : 2105344,
+        "createdAt" : "2026-06-20T09:52:52Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache\/data_2",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 2105344,
+        "modifiedAt" : "2026-10-10T23:09:06Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache\/data_2"
+      },
+      {
+        "allocatedBytes" : 1327104,
+        "createdAt" : "2026-10-10T22:44:43Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/d9f5a1545f9156bc4635c06a5f04c03a0aa4a7a0c9c228f449f3285d2abdf951",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 1324031,
+        "modifiedAt" : "2026-10-10T22:44:43Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/d9f5a1545f9156bc4635c06a5f04c03a0aa4a7a0c9c228f449f3285d2abdf951"
+      },
+      {
+        "allocatedBytes" : 1323008,
+        "createdAt" : "2026-10-10T22:44:43Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation\/10831\/crl-set",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 1319006,
+        "modifiedAt" : "2026-10-10T22:44:43Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/CertificateRevocation\/10831\/crl-set"
+      },
+      {
+        "allocatedBytes" : 1056768,
+        "createdAt" : "2026-06-20T09:52:52Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 1056768,
+        "modifiedAt" : "2026-10-13T02:57:49Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GraphiteDawnCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 950272,
+        "createdAt" : "2026-09-30T22:51:33Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools\/server.mjs",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 948558,
+        "modifiedAt" : "2026-10-12T21:26:24Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/executor-plugins\/codex-app-tools\/server.mjs"
+      },
+      {
+        "allocatedBytes" : 888832,
+        "createdAt" : "2026-06-30T20:26:00Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3\/ranked_dicts",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 886570,
+        "modifiedAt" : "2026-06-30T20:26:00Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3\/ranked_dicts"
+      },
+      {
+        "allocatedBytes" : 880640,
+        "createdAt" : "2026-06-30T20:26:00Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/545666a4efd056351597bb386aea1368105ededc976ed5650d8682daab9f37ff",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 878447,
+        "modifiedAt" : "2026-06-30T20:26:00Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/545666a4efd056351597bb386aea1368105ededc976ed5650d8682daab9f37ff"
+      },
+      {
+        "allocatedBytes" : 577536,
+        "createdAt" : "2026-10-09T07:33:03Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/501827b4f9f4db80529433eabf520c2dc66be589a9ae2dff1a8b8e76d0dea2c7",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 575758,
+        "modifiedAt" : "2026-10-09T07:33:03Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/501827b4f9f4db80529433eabf520c2dc66be589a9ae2dff1a8b8e76d0dea2c7"
+      },
+      {
+        "allocatedBytes" : 573440,
+        "createdAt" : "2026-10-09T07:33:03Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints\/757\/optimization-hints.pb",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 571213,
+        "modifiedAt" : "2026-10-09T07:33:03Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/OptimizationHints\/757\/optimization-hints.pb"
+      },
+      {
+        "allocatedBytes" : 524288,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Cookies",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 524288,
+        "modifiedAt" : "2026-10-12T21:26:49Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Cookies"
+      },
+      {
+        "allocatedBytes" : 483328,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/shared_proto_db\/000003.log",
+        "kind" : "日志与崩溃报告",
+        "linkCount" : 1,
+        "logicalBytes" : 481114,
+        "modifiedAt" : "2026-10-12T21:28:19Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/shared_proto_db\/000003.log"
+      },
+      {
+        "allocatedBytes" : 438272,
+        "createdAt" : "2026-08-16T20:24:44Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/shared_proto_db\/000003.log",
+        "kind" : "日志与崩溃报告",
+        "linkCount" : 1,
+        "logicalBytes" : 438004,
+        "modifiedAt" : "2026-10-12T21:28:17Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/shared_proto_db\/000003.log"
+      },
+      {
+        "allocatedBytes" : 438272,
+        "createdAt" : "2026-10-12T21:27:19Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/f1b02742fbcbd7f0b5be8a96058f17067ada885b04325b60fa225d4508d679e3",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 437351,
+        "modifiedAt" : "2026-10-12T21:27:19Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/f1b02742fbcbd7f0b5be8a96058f17067ada885b04325b60fa225d4508d679e3"
+      },
+      {
+        "allocatedBytes" : 352256,
+        "createdAt" : "2026-10-12T21:27:20Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1803\/crs.pb",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 350640,
+        "modifiedAt" : "2026-10-12T21:27:20Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1803\/crs.pb"
+      },
+      {
+        "allocatedBytes" : 352256,
+        "createdAt" : "2026-10-05T02:17:54Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1798\/crs.pb",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 349741,
+        "modifiedAt" : "2026-10-05T02:17:54Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/PKIMetadata\/1798\/crs.pb"
+      },
+      {
+        "allocatedBytes" : 335872,
+        "createdAt" : "2026-10-08T16:22:10Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.8.62\/Preload Data",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 332587,
+        "modifiedAt" : "2026-10-08T16:22:10Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.8.62\/Preload Data"
+      },
+      {
+        "allocatedBytes" : 311296,
+        "createdAt" : "2026-10-12T21:27:21Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/9fe65a456f176036f3079d57e59f04d7661ac006b3f9d796b20cc4a7426cad41",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 310975,
+        "modifiedAt" : "2026-10-12T21:27:21Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/component_crx_cache\/9fe65a456f176036f3079d57e59f04d7661ac006b3f9d796b20cc4a7426cad41"
+      },
+      {
+        "allocatedBytes" : 307200,
+        "createdAt" : "2026-10-12T21:27:21Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.12.62\/Preload Data",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 306805,
+        "modifiedAt" : "2026-10-12T21:27:21Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crowd Deny\/2026.10.12.62\/Preload Data"
+      },
+      {
+        "allocatedBytes" : 278528,
+        "createdAt" : "2026-06-30T20:26:00Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3\/english_wikipedia.txt",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 277015,
+        "modifiedAt" : "2026-06-30T20:26:00Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/ZxcvbnData\/3\/english_wikipedia.txt"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-05-28T17:13:37Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnGraphiteCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-06-20T09:52:51Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnGraphiteCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-05-28T17:13:37Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnWebGPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-06-20T09:52:51Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnWebGPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-06-20T09:52:53Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnGraphiteCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-10-13T02:57:21Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnGraphiteCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-06-20T09:52:53Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnWebGPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-10-13T02:57:21Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnWebGPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 32768,
+        "createdAt" : "2026-06-20T09:52:53Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-10-13T02:57:21Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 270336,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnGraphiteCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-10-11T12:49:22Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnGraphiteCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 270336,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnWebGPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-10-11T12:49:22Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnWebGPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 270336,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-10-11T12:49:22Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-05-28T17:13:37Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-06-20T09:52:51Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-05-29T00:09:34Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnGraphiteCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-05-29T01:25:03Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnGraphiteCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-05-29T00:09:34Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnWebGPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-05-29T01:25:03Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/DawnWebGPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 16384,
+        "createdAt" : "2026-05-29T00:09:34Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/GPUCache\/data_1",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 270336,
+        "modifiedAt" : "2026-05-29T01:25:03Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/GPUCache\/data_1"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-05-28T17:13:37Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnGraphiteCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-05-28T17:13:37Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnGraphiteCache\/index"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-05-28T17:13:37Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnWebGPUCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-05-28T17:13:37Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/DawnWebGPUCache\/index"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-06-20T09:52:53Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnGraphiteCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-10-10T19:39:48Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnGraphiteCache\/index"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-06-20T09:52:53Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnWebGPUCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-10-10T19:39:48Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/DawnWebGPUCache\/index"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-06-20T09:52:53Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-10-10T19:39:48Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache\/index"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnGraphiteCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-07-16T03:58:07Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnGraphiteCache\/index"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnWebGPUCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-07-16T03:58:07Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/DawnWebGPUCache\/index"
+      },
+      {
+        "allocatedBytes" : 266240,
+        "createdAt" : "2026-07-16T03:58:07Z",
+        "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache\/index",
+        "kind" : "其他文件",
+        "linkCount" : 1,
+        "logicalBytes" : 262512,
+        "modifiedAt" : "2026-07-16T03:58:07Z",
+        "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache\/index"
+      }
+    ],
+    "logicalBytes" : 145242462,
+    "recentLargeFiles" : [
+
+    ],
+    "roots" : [
+      "\/Users\/doja\/Library\/Application Support\/Codex"
+    ],
+    "skippedSymlinks" : 4,
+    "startedAt" : "2026-10-13T03:00:42Z",
+    "status" : "completed"
+  },
+  "suggestions" : [
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 1769472,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 1769472,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache",
+      "isComplete" : true,
+      "lastModified" : "2026-10-04T02:49:50Z",
+      "logicalBytes" : 4899892,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/GPUCache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 561152,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 561152,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache",
+      "isComplete" : true,
+      "lastModified" : "2026-07-16T03:58:07Z",
+      "logicalBytes" : 557424,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/GPUCache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 307200,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 307200,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUCache",
+      "isComplete" : true,
+      "lastModified" : "2026-05-28T17:13:37Z",
+      "logicalBytes" : 557424,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUCache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 307200,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 307200,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/GPUCache",
+      "isComplete" : true,
+      "lastModified" : "2026-05-29T00:09:34Z",
+      "logicalBytes" : 557424,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/GPUCache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "先保留最近问题所需的报告，确认不再排查且应用已退出后再判断历史报告。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 249856,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 249856,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/pending",
+      "isComplete" : true,
+      "lastModified" : "2026-10-12T21:50:38Z",
+      "logicalBytes" : 203078,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Crashpad\/pending",
+      "reason" : "实际目录名称为 Crashpad\/pending。它用于崩溃诊断，不能由单次大小判断是否异常。",
+      "risk" : "yellow",
+      "title" : "Codex 待处理崩溃报告"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 28672,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 28672,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache",
+      "isComplete" : true,
+      "lastModified" : "2026-06-20T09:41:07Z",
+      "logicalBytes" : 8404,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 16384,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 16384,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache",
+      "isComplete" : true,
+      "lastModified" : "2026-05-28T17:13:37Z",
+      "logicalBytes" : 144,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Code Cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 16384,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 16384,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache",
+      "isComplete" : true,
+      "lastModified" : "2026-05-29T00:09:34Z",
+      "logicalBytes" : 144,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Code Cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 8192,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 8192,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary\/cache",
+      "isComplete" : true,
+      "lastModified" : "2026-07-16T03:58:07Z",
+      "logicalBytes" : 72,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Shared Dictionary\/cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 8192,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 8192,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary\/cache",
+      "isComplete" : true,
+      "lastModified" : "2026-06-20T09:52:52Z",
+      "logicalBytes" : 72,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Shared Dictionary\/cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 8192,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 8192,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary\/cache",
+      "isComplete" : true,
+      "lastModified" : "2026-05-29T00:09:35Z",
+      "logicalBytes" : 72,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Shared Dictionary\/cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 8192,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 8192,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary\/cache",
+      "isComplete" : true,
+      "lastModified" : "2026-05-28T17:13:37Z",
+      "logicalBytes" : 72,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Shared Dictionary\/cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 8192,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 8192,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary\/cache",
+      "isComplete" : true,
+      "lastModified" : "2026-08-16T20:24:44Z",
+      "logicalBytes" : 72,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/codex-browser-app\/Shared Dictionary\/cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    },
+    {
+      "advice" : "默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 0,
+      "domain" : "Codex",
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sessions",
+      "isComplete" : true,
+      "lastModified" : "2026-08-16T12:36:47Z",
+      "logicalBytes" : 0,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Default\/Partitions\/codex-browser-app\/Sessions",
+      "reason" : "这些目录可能保存聊天记录、未提交代码、技能、用户配置或可恢复的工作。不能归为垃圾。",
+      "risk" : "red",
+      "title" : "Codex 会话、配置与工作文件"
+    },
+    {
+      "advice" : "默认保留，第一阶段不会删除或移动文件。需要变更时先确认用途与备份，不能按目录整体清理。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 0,
+      "domain" : "Codex",
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache\/GPUCache",
+      "isComplete" : true,
+      "lastModified" : "2026-10-04T02:49:18Z",
+      "logicalBytes" : 0,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/GPUPersistentCache\/GPUCache",
+      "reason" : "逐文件元数据检查发现代码、配置、会话、媒体或工程等受保护文件。不能把整个缓存或临时目录作为处理单位。",
+      "risk" : "red",
+      "title" : "混有需保留文件"
+    },
+    {
+      "advice" : "应用退出后可考虑重建缓存，之后首次打开或渲染可能变慢；若缓存目录中放入个人文件，应保留个人文件。第一阶段仅建议。 分配大小只作为估算上限；APFS 克隆、快照、硬链接及打开的文件会影响实际释放量，最低可能为 0。移至废纸篓也不会立即释放空间。",
+      "allocatedBytes" : 0,
+      "domain" : "Codex",
+      "estimatedReclaimUpperBound" : 0,
+      "id" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache",
+      "isComplete" : true,
+      "lastModified" : "2026-05-29T00:09:34Z",
+      "logicalBytes" : 0,
+      "path" : "\/Users\/doja\/Library\/Application Support\/Codex\/Partitions\/codex-browser-app\/Cache",
+      "reason" : "路径属于已识别的应用缓存位置。它是缓存线索，不代表当前正在使用的文件可以立即处理。",
+      "risk" : "green",
+      "title" : "Codex 可再生成的应用缓存"
+    }
+  ],
+  "system" : {
+    "availableBytes" : 414474240,
+    "errors" : [
+
+    ],
+    "memoryPressure" : "正常",
+    "swapTotalBytes" : 2415919104,
+    "swapUsedBytes" : 1139277824,
+    "timestamp" : "2026-10-13T03:07:03Z",
+    "totalBytes" : 245107195904,
+    "usedBytes" : 244692721664,
+    "volumePath" : "\/"
+  },
+  "version" : 1
+}

@@ -1,0 +1,20 @@
+import AppKit
+let size = NSSize(width: 1024, height: 1024)
+let image = NSImage(size: size)
+image.lockFocus()
+NSColor(red: 0.05, green: 0.07, blue: 0.1, alpha: 1).setFill()
+NSBezierPath(roundedRect: NSRect(x: 42, y: 42, width: 940, height: 940), xRadius: 200, yRadius: 200).fill()
+let mint = NSColor(red: 0.35, green: 0.87, blue: 0.71, alpha: 1)
+mint.setStroke()
+let disk = NSBezierPath(roundedRect: NSRect(x: 205, y: 220, width: 614, height: 585), xRadius: 95, yRadius: 95)
+disk.lineWidth = 34
+disk.stroke()
+let bottom = NSBezierPath()
+bottom.move(to: NSPoint(x: 205, y: 360)); bottom.line(to: NSPoint(x: 819, y: 360)); bottom.lineWidth = 28; bottom.stroke()
+mint.setFill()
+NSBezierPath(ovalIn: NSRect(x: 688, y: 270, width: 38, height: 38)).fill()
+NSBezierPath(roundedRect: NSRect(x: 462, y: 448, width: 100, height: 255), xRadius: 20, yRadius: 20).fill()
+NSBezierPath(roundedRect: NSRect(x: 384, y: 525, width: 255, height: 100), xRadius: 20, yRadius: 20).fill()
+image.unlockFocus()
+guard let tiff = image.tiffRepresentation, let bitmap = NSBitmapImageRep(data: tiff), let png = bitmap.representation(using: .png, properties: [:]) else { fatalError("图标生成失败") }
+try png.write(to: URL(fileURLWithPath: CommandLine.arguments[1]))

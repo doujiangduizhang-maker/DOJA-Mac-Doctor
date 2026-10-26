@@ -104,11 +104,12 @@ open "dist/DOJA Mac Doctor.app"
 - 应用采用本机 ad-hoc 签名，尚未进行 Apple Developer ID 分发签名及公证。
 - 首次运行时，macOS 可能根据安全设置显示相关提示。
 - 软件不会自动删除文件；只有符合安全核实条件的缓存才允许用户主动选择处理。
-```
 
-构建缓存和产物保存在本项目外置盘 `.build`。Swift 驱动在 exFAT 临时目录会失败，因此只有少量暂存编译文件放在独立 `/private/tmp/doja-doctor-build.*`，退出时清理这个本次创建的目录。构建不清理已有用户数据。应用采用本机 ad-hoc 签名，未做开发者分发签名或公证。
+构建缓存和产物保存在项目的 `.build` 和 `dist` 目录。Swift 编译时少量临时文件使用独立的 `/private/tmp/doja-doctor-build.*` 目录，并在正常退出时清理。构建不会主动清理已有用户数据。应用采用本机 ad-hoc 签名，尚未进行 Apple Developer ID 分发签名或公证。
 
-命令行只读扫描与实际验证：
+### 命令行验证
+
+以下命令用于验证诊断工具的功能：
 
 ```bash
 dist/doctor-scan --help

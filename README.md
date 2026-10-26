@@ -63,9 +63,47 @@ Codex 会分别识别实际存在的 Crashpad/pending、应用缓存与日志、
 
 安装 Apple Command Line Tools 即可，无需完整 Xcode：
 
+
+### 从 GitHub 下载、构建并运行
+
+**系统要求**
+- Apple Silicon Mac
+- macOS 14.0 或更新版本
+- Apple Command Line Tools
+- Git
+
+首次使用时，在终端执行以下命令安装开发工具（如已安装可跳过）：
+
+```bash
+xcode-select --install
+```
+
+克隆项目并进入源码目录：
+
+```bash
+git clone https://github.com/doujiangduizhang-maker/DOJA-Mac-Doctor.git
+cd DOJA-Mac-Doctor/DOJA-Mac-Doctor
+```
+
+构建应用：
+
 ```bash
 ./scripts/build.sh
+```
+
+构建成功后，启动应用：
+
+```bash
 open "dist/DOJA Mac Doctor.app"
+```
+
+**注意事项**
+
+- 首次构建可能需要一些时间。
+- 构建脚本将在当前源码目录下生成 `.build` 和 `dist`。
+- 应用采用本机 ad-hoc 签名，尚未进行 Apple Developer ID 分发签名及公证。
+- 首次运行时，macOS 可能根据安全设置显示相关提示。
+- 软件不会自动删除文件；只有符合安全核实条件的缓存才允许用户主动选择处理。
 ```
 
 构建缓存和产物保存在本项目外置盘 `.build`。Swift 驱动在 exFAT 临时目录会失败，因此只有少量暂存编译文件放在独立 `/private/tmp/doja-doctor-build.*`，退出时清理这个本次创建的目录。构建不清理已有用户数据。应用采用本机 ad-hoc 签名，未做开发者分发签名或公证。
